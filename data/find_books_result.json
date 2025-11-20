@@ -1,0 +1,34 @@
+[
+  {
+    "book_id": "CL001",
+    "title": "Những người khốn khổ",
+    "authors": "Victor Hugo",
+    "genres_primary": "Classic",
+    "price_vnd": 450000,
+    "rating_avg": 4.21
+  },
+  {
+    "book_id": "CL002",
+    "title": "Hoàng tử bé",
+    "authors": "Antoine de Saint-Exupéry",
+    "genres_primary": "Classic",
+    "price_vnd": 50000,
+    "rating_avg": 4.33
+  },
+  {
+    "book_id": "CL003",
+    "title": "Trăm năm cô đơn",
+    "authors": "Gabriel García Márquez",
+    "genres_primary": "Classic",
+    "price_vnd": 145000,
+    "rating_avg": 4.12
+  },
+  {
+    "book_id": "CL005",
+    "title": "Giết con chim nhại",
+    "authors": "Harper Lee",
+    "genres_primary": "Classic",
+    "price_vnd": 148000,
+    "rating_avg": 4.26
+  }
+]

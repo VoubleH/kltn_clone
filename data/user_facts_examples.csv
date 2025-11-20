@@ -1,0 +1,31 @@
+user_id,fact_type,fact_value,confidence
+user_001,budget_min,100000,1.0
+user_001,budget_max,200000,1.0
+user_001,genre_like,Self-help,0.9
+user_001,genre_like,Nonfiction,0.8
+user_001,author_like,Dale Carnegie,1.0
+user_002,budget_min,200000,1.0
+user_002,budget_max,500000,1.0
+user_002,genre_like,Finance,0.9
+user_002,genre_like,Self-help,0.9
+user_002,page_min,150,0.7
+user_002,page_max,300,0.7
+user_002,genre_dislike,Classic,1.0
+user_002,genre_dislike,Philosophy,1.0
+user_003,budget_min,500000,0.8
+user_003,genre_like,Classic,0.9
+user_003,genre_like,Fiction,0.9
+user_003,author_like,Haruki Murakami,1.0
+user_003,page_min,400,0.8
+user_003,genre_dislike,Self-help,1.0
+user_004,budget_min,150000,1.0
+user_004,budget_max,300000,1.0
+user_004,genre_like,Fantasy,1.0
+user_004,genre_like,Fiction,0.8
+user_004,page_max,350,0.7
+user_004,genre_dislike,Horror,1.0
+user_005,budget_max,250000,0.9
+user_005,genre_like,Classic,0.8
+user_005,page_min,100,0.7
+user_005,page_max,500,0.7
+user_005,genre_dislike,Self-help,0.9

@@ -1,0 +1,35 @@
+[
+  {
+    "book_id": "FI007",
+    "title": "Cây cam ngọt của tôi",
+    "authors": "José Mauro de Vasconcelos",
+    "age_rating": 13,
+    "pages": 240,
+    "genres_primary": "Fiction",
+    "publisher": "NXB Hội nhà văn",
+    "year": 1968,
+    "short_summary": "Câu chuyện cảm động về Zezé – cậu bé nghèo nhưng giàu trí tưởng tượng – và hành trình trưởng thành đầy nỗi đau xen lẫn sự ấm áp của tình yêu thương."
+  },
+  {
+    "book_id": "FI010",
+    "title": "Kẻ trộm sách",
+    "authors": "Markus Zusak",
+    "age_rating": 13,
+    "pages": 571,
+    "genres_primary": "Fiction",
+    "publisher": "NXB Trẻ",
+    "year": 2005,
+    "short_summary": "Trong bối cảnh Đức Quốc Xã, cô bé Liesel tìm thấy sức mạnh của chữ nghĩa để chống lại mất mát, chiến tranh và cái ác, được kể lại qua góc nhìn của Thần Chết."
+  },
+  {
+    "book_id": "NF004",
+    "title": "Tư duy nhanh và chậm",
+    "authors": "Daniel Kahneman",
+    "age_rating": 18,
+    "pages": 611,
+    "genres_primary": "Nonfiction",
+    "publisher": "NXB Trẻ",
+    "year": 2011,
+    "short_summary": "Hai hệ tư duy: nhanh trực giác và chậm suy luận, ảnh hưởng tới quyết định hàng ngày."
+  }
+]

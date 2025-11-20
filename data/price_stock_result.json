@@ -1,0 +1,32 @@
+[
+  {
+    "book_id": "FI001",
+    "title": "Nhà giả kim",
+    "price_vnd": 89000,
+    "stock": 784
+  },
+  {
+    "book_id": "SF001",
+    "title": "Đắc nhân tâm",
+    "price_vnd": 120000,
+    "stock": 320
+  },
+  {
+    "book_id": "FA001",
+    "title": "Harry Potter và Hòn đá Phù thuỷ",
+    "price_vnd": 165000,
+    "stock": 41
+  },
+  {
+    "book_id": "NF001",
+    "title": "Sapiens: Lược sử loài người",
+    "price_vnd": 350000,
+    "stock": 84
+  },
+  {
+    "book_id": "CL002",
+    "title": "Hoàng tử bé",
+    "price_vnd": 50000,
+    "stock": 500
+  }
+]

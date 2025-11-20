@@ -1,0 +1,6 @@
+user_id,budget_min,budget_max,fav_genres,fav_authors,page_min,page_max,content_avoid
+user_001,100000,200000,"Self-help,Nonfiction","Dale Carnegie",,,
+user_002,200000,500000,"Finance,Self-help",,150,300,"Classic,Philosophy"
+user_003,500000,,"Classic,Fiction","Haruki Murakami",400,,"Self-help"
+user_004,150000,300000,"Fantasy,Fiction","J.K. Rowling",,350,"Horror"
+user_005,,250000,"Classic",,100,500,"Self-help"
