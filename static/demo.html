@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Demo KLTN Sales Chatbot</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+                "Helvetica Neue", Arial, sans-serif;
+            background: radial-gradient(circle at top, #0f172a, #020617 55%);
+            color: #e5e7eb;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .demo-wrapper {
+            text-align: center;
+            max-width: 640px;
+            padding: 24px;
+        }
+
+        .demo-logo {
+            width: 80px;
+            height: 80px;
+            border-radius: 24px;
+            background: radial-gradient(circle at 30% 20%, #facc15, #f97316 45%, #1d4ed8);
+            margin: 0 auto 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 36px;
+        }
+
+        h1 {
+            font-size: 28px;
+            margin-bottom: 12px;
+            letter-spacing: 0.03em;
+        }
+
+        p {
+            font-size: 14px;
+            color: #9ca3af;
+            line-height: 1.6;
+        }
+
+        .tagline {
+            font-size: 13px;
+            color: #a5b4fc;
+            margin-bottom: 16px;
+        }
+
+        .pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            border-radius: 999px;
+            padding: 6px 12px;
+            background: rgba(15, 23, 42, 0.8);
+            border: 1px solid rgba(148, 163, 184, 0.35);
+            font-size: 11px;
+            color: #e5e7eb;
+            margin-bottom: 10px;
+        }
+    </style>
+
+    <!-- CSS widget từ FastAPI (same-origin) -->
+    <link rel="stylesheet" href="/static/chat-widget.css" />
+</head>
+
+<body>
+    <div class="demo-wrapper">
+        <div class="demo-logo">📚</div>
+        <div class="pill">
+            <span>⚡</span>
+            <span>Demo KLTN Sales Chatbot</span>
+        </div>
+        <h1>Trợ lý AI tư vấn sách</h1>
+        <p class="tagline">
+            Hỏi về thể loại, ngân sách, số trang, phong cách yêu thích… Chatbot sẽ
+            gợi ý tựa sách phù hợp, ghi nhớ gu đọc của bạn.
+        </p>
+        <p>
+            Hãy bấm vào nút chat tròn ở góc phải phía dưới màn hình để bắt đầu
+            trò chuyện. <br />
+            Ví dụ: “Mình thích self-help dưới 200k”, “Tìm truyện Classic nhẹ nhàng,
+            200–400 trang”…
+        </p>
+    </div>
+
+    <!-- JS widget từ FastAPI (same-origin) -->
+    <script>
+        console.log("DEMO HTML LOADED");
+    </script>
+
+    <script src="/static/chat-widget.js"></script>
+</body>
+
+</html>

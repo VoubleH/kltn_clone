@@ -1,0 +1,3979 @@
+{
+  "documents": [
+    {
+      "id": "FAQ_1",
+      "source": "FAQ:FAQ_1",
+      "title": "Bao lâu nhận được hàng sau khi đặt?",
+      "chunk_text": "Thời gian giao hàng thường từ 2–5 ngày làm việc tùy khu vực. Với nội thành, có thể nhận trong 1–2 ngày.",
+      "tokens": 24
+    },
+    {
+      "id": "FAQ_2",
+      "source": "FAQ:FAQ_2",
+      "title": "Phí vận chuyển được tính như thế nào?",
+      "chunk_text": "Phí vận chuyển phụ thuộc vào khu vực nhận hàng, trọng lượng sách và loại dịch vụ. Chi tiết phí được hiển thị tại bước thanh toán.",
+      "tokens": 27
+    },
+    {
+      "id": "FAQ_3",
+      "source": "FAQ:FAQ_3",
+      "title": "Có giao hàng nhanh hoặc giao trong ngày không?",
+      "chunk_text": "Có, dịch vụ giao nhanh trong ngày áp dụng tại một số khu vực. Bạn có thể chọn khi đặt hàng.",
+      "tokens": 21
+    },
+    {
+      "id": "FAQ_4",
+      "source": "FAQ:FAQ_4",
+      "title": "Có ship COD không?",
+      "chunk_text": "Có, dịch vụ COD (thanh toán khi nhận hàng) được hỗ trợ tại các khu vực được áp dụng.",
+      "tokens": 19
+    },
+    {
+      "id": "FAQ_5",
+      "source": "FAQ:FAQ_5",
+      "title": "Có thể đổi địa chỉ nhận hàng sau khi đặt không?",
+      "chunk_text": "Có, bạn có thể thay đổi địa chỉ nhận hàng trước khi đơn hàng được gửi đi bằng cách liên hệ bộ phận CSKH.",
+      "tokens": 24
+    },
+    {
+      "id": "FAQ_6",
+      "source": "FAQ:FAQ_6",
+      "title": "Có giao hàng quốc tế không?",
+      "chunk_text": "Có, chúng tôi hỗ trợ giao hàng quốc tế. Phí và thời gian giao hàng phụ thuộc quốc gia và được thông báo tại bước thanh toán.",
+      "tokens": 27
+    },
+    {
+      "id": "FAQ_7",
+      "source": "FAQ:FAQ_7",
+      "title": "Có thể hẹn giờ nhận sách không?",
+      "chunk_text": "Có, bạn có thể chọn ngày giờ nhận sách trong quá trình đặt hàng nếu khu vực hỗ trợ.",
+      "tokens": 19
+    },
+    {
+      "id": "FAQ_8",
+      "source": "FAQ:FAQ_8",
+      "title": "Thời gian đổi trả sản phẩm là bao lâu?",
+      "chunk_text": "Bạn có thể đổi trả trong vòng 7–14 ngày kể từ ngày nhận hàng nếu sách còn nguyên vẹn và chưa sử dụng.",
+      "tokens": 24
+    },
+    {
+      "id": "FAQ_9",
+      "source": "FAQ:FAQ_9",
+      "title": "Sách bị lỗi hoặc hư hỏng có được đổi không?",
+      "chunk_text": "Có, chúng tôi chấp nhận đổi mới hoặc hoàn tiền cho các sách bị lỗi, rách hoặc in sai.",
+      "tokens": 19
+    },
+    {
+      "id": "FAQ_10",
+      "source": "FAQ:FAQ_10",
+      "title": "Có được hoàn tiền không, mất bao lâu để nhận?",
+      "chunk_text": "Có, thời gian hoàn tiền thường từ 3–5 ngày làm việc kể từ khi chúng tôi nhận sách trả về.",
+      "tokens": 21
+    },
+    {
+      "id": "FAQ_11",
+      "source": "FAQ:FAQ_11",
+      "title": "Ai chịu phí vận chuyển khi đổi trả sách?",
+      "chunk_text": "Nếu lỗi do nhà sản xuất hoặc vận chuyển, chúng tôi chịu phí. Nếu do khách hàng đổi ý, khách hàng chịu phí vận chuyển.",
+      "tokens": 25
+    },
+    {
+      "id": "FAQ_12",
+      "source": "FAQ:FAQ_12",
+      "title": "Có thể đổi sang sách khác cùng giá trị không?",
+      "chunk_text": "Có, bạn có thể chọn sách khác cùng giá trị hoặc trả thêm nếu sách mới giá cao hơn.",
+      "tokens": 19
+    },
+    {
+      "id": "FAQ_13",
+      "source": "FAQ:FAQ_13",
+      "title": "Quy trình đổi trả thực hiện như thế nào?",
+      "chunk_text": "Liên hệ bộ phận CSKH, gửi sách trả về và chọn phương thức hoàn tiền hoặc đổi sách khác theo hướng dẫn.",
+      "tokens": 22
+    },
+    {
+      "id": "FAQ_14",
+      "source": "FAQ:FAQ_14",
+      "title": "Có được hoàn tiền nếu đổi ý sau khi nhận hàng không?",
+      "chunk_text": "Có, trong thời gian đổi trả quy định, phí vận chuyển do khách hàng chịu nếu không phải lỗi sản phẩm.",
+      "tokens": 21
+    },
+    {
+      "id": "FAQ_15",
+      "source": "FAQ:FAQ_15",
+      "title": "Nếu đơn hàng bị thất lạc trong quá trình vận chuyển, làm sao?",
+      "chunk_text": "Vui lòng liên hệ CSKH ngay để được hỗ trợ giải quyết, hoàn tiền hoặc gửi lại sách.",
+      "tokens": 18
+    },
+    {
+      "id": "FAQ_16",
+      "source": "FAQ:FAQ_16",
+      "title": "Những phương thức thanh toán nào được chấp nhận?",
+      "chunk_text": "Thanh toán qua thẻ ngân hàng nội địa và quốc tế (Visa, Mastercard), ví điện tử (Momo, VNPay, ZaloPay) và COD.",
+      "tokens": 21
+    },
+    {
+      "id": "FAQ_17",
+      "source": "FAQ:FAQ_17",
+      "title": "Giá sách đã bao gồm thuế chưa?",
+      "chunk_text": "Giá hiển thị trên website đã bao gồm VAT nếu áp dụng.",
+      "tokens": 12
+    },
+    {
+      "id": "FAQ_18",
+      "source": "FAQ:FAQ_18",
+      "title": "Có thể thanh toán nhiều đơn hàng cùng lúc không?",
+      "chunk_text": "Có, bạn có thể thanh toán nhiều đơn hàng trong giỏ hàng cùng lúc.",
+      "tokens": 14
+    },
+    {
+      "id": "FAQ_19",
+      "source": "FAQ:FAQ_19",
+      "title": "Có ưu đãi cho học sinh/sinh viên hoặc thành viên không?",
+      "chunk_text": "Có, khách hàng đăng ký tài khoản hoặc email học sinh/sinh viên sẽ nhận ưu đãi đặc biệt.",
+      "tokens": 19
+    },
+    {
+      "id": "FAQ_20",
+      "source": "FAQ:FAQ_20",
+      "title": "Làm sao áp dụng mã giảm giá hoặc voucher khi thanh toán?",
+      "chunk_text": "Nhập mã giảm giá hoặc voucher vào ô “Mã giảm giá” tại trang thanh toán và nhấn “Áp dụng”.",
+      "tokens": 19
+    },
+    {
+      "id": "FAQ_21",
+      "source": "FAQ:FAQ_21",
+      "title": "Sách có bảo hành không?",
+      "chunk_text": "Sách không có bảo hành vật lý nhưng chúng tôi đảm bảo chất lượng in ấn và bìa, đổi trả nếu lỗi do nhà sản xuất.",
+      "tokens": 26
+    },
+    {
+      "id": "FAQ_22",
+      "source": "FAQ:FAQ_22",
+      "title": "Thời gian bảo hành là bao lâu?",
+      "chunk_text": "Chỉ áp dụng cho lỗi sản xuất, thời gian đổi trả trong vòng 7–14 ngày kể từ ngày nhận hàng.",
+      "tokens": 21
+    },
+    {
+      "id": "FAQ_23",
+      "source": "FAQ:FAQ_23",
+      "title": "Sách bị hư hỏng do vận chuyển, xử lý thế nào?",
+      "chunk_text": "Liên hệ CSKH để được gửi sách thay thế hoặc hoàn tiền, phí do cửa hàng chịu.",
+      "tokens": 17
+    },
+    {
+      "id": "FAQ_24",
+      "source": "FAQ:FAQ_24",
+      "title": "Thông tin cá nhân của khách hàng được bảo mật như thế nào?",
+      "chunk_text": "Chúng tôi cam kết bảo mật thông tin khách hàng và không chia sẻ cho bên thứ 3.",
+      "tokens": 18
+    },
+    {
+      "id": "FAQ_25",
+      "source": "FAQ:FAQ_25",
+      "title": "Có thể xóa tài khoản hoặc dữ liệu cá nhân không?",
+      "chunk_text": "Có, bạn có thể liên hệ CSKH để yêu cầu xóa tài khoản và dữ liệu cá nhân.",
+      "tokens": 18
+    },
+    {
+      "id": "FAQ_26",
+      "source": "FAQ:FAQ_26",
+      "title": "Làm sao cập nhật thông tin cá nhân?",
+      "chunk_text": "Vào phần “Tài khoản của tôi” > “Thông tin cá nhân” để chỉnh sửa tên, email, số điện thoại và địa chỉ.",
+      "tokens": 21
+    },
+    {
+      "id": "FAQ_27",
+      "source": "FAQ:FAQ_27",
+      "title": "Có chương trình tích điểm hay membership không?",
+      "chunk_text": "Có, khách hàng đăng ký tài khoản sẽ được tích điểm cho mỗi đơn hàng và đổi điểm lấy voucher.",
+      "tokens": 20
+    },
+    {
+      "id": "FAQ_28",
+      "source": "FAQ:FAQ_28",
+      "title": "Có ưu đãi đặc biệt trong các dịp lễ không?",
+      "chunk_text": "Có, thông tin khuyến mãi được cập nhật trên website và email cho thành viên.",
+      "tokens": 15
+    },
+    {
+      "id": "FAQ_29",
+      "source": "FAQ:FAQ_29",
+      "title": "Thời gian phản hồi của CSKH là bao lâu?",
+      "chunk_text": "Trung bình phản hồi trong vòng 24 giờ đối với email và vài phút cho chat trực tiếp.",
+      "tokens": 18
+    },
+    {
+      "id": "FAQ_30",
+      "source": "FAQ:FAQ_30",
+      "title": "Chatbot có hỗ trợ 24/7 không?",
+      "chunk_text": "Có, chatbot luôn sẵn sàng trả lời câu hỏi cơ bản và hướng dẫn khách hàng.",
+      "tokens": 16
+    },
+    {
+      "id": "FAQ_31",
+      "source": "FAQ:FAQ_31",
+      "title": "Làm sao liên hệ nhân viên tư vấn trực tiếp?",
+      "chunk_text": "Bạn có thể gọi hotline, gửi email hoặc chat trực tiếp trên website/app.",
+      "tokens": 14
+    },
+    {
+      "id": "FAQ_32",
+      "source": "FAQ:FAQ_32",
+      "title": "Có thể phản hồi đánh giá hoặc báo lỗi sản phẩm không?",
+      "chunk_text": "Có, bạn có thể gửi phản hồi hoặc báo lỗi qua form liên hệ hoặc chat trực tiếp.",
+      "tokens": 18
+    },
+    {
+      "id": "BK_bk_0_1",
+      "source": "BOOK:bk_0",
+      "title": "Nhà giả kim",
+      "chunk_text": "Hành trình tìm kho báu và khám phá bản thân qua những bài học sống giản dị.",
+      "tokens": 17
+    },
+    {
+      "id": "BK_bk_1_1",
+      "source": "BOOK:bk_1",
+      "title": "Đắc nhân tâm",
+      "chunk_text": "Nghệ thuật giao tiếp và ảnh hưởng, giúp xây dựng mối quan hệ bền vững và thành công.",
+      "tokens": 18
+    },
+    {
+      "id": "BK_bk_2_1",
+      "source": "BOOK:bk_2",
+      "title": "Harry Potter và Hòn đá Phù thuỷ",
+      "chunk_text": "Cậu bé phù thủy khám phá thế giới phép thuật và bắt đầu cuộc phiêu lưu tại Hogwarts.",
+      "tokens": 18
+    },
+    {
+      "id": "BK_bk_3_1",
+      "source": "BOOK:bk_3",
+      "title": "Cha giàu cha nghèo",
+      "chunk_text": "Bài học về tư duy tài chính, đầu tư và khác biệt giữa tài sản và tiêu sản.",
+      "tokens": 18
+    },
+    {
+      "id": "BK_bk_4_1",
+      "source": "BOOK:bk_4",
+      "title": "Cánh đồng bất tận",
+      "chunk_text": "Những lát cắt đời sống miền Tây, cảm xúc sâu lắng về thân phận con người.",
+      "tokens": 16
+    },
+    {
+      "id": "BK_bk_5_1",
+      "source": "BOOK:bk_5",
+      "title": "Sapiens: Lược sử loài người",
+      "chunk_text": "Lược sử về con người: từ săn bắn hái lượm tới xã hội hiện đại và tri thức.",
+      "tokens": 18
+    },
+    {
+      "id": "BK_bk_6_1",
+      "source": "BOOK:bk_6",
+      "title": "Khi hơi thở hóa thinh không",
+      "chunk_text": "Bác sĩ viết về cái nhìn về cuộc đời và cái chết khi đối diện ung thư.",
+      "tokens": 17
+    },
+    {
+      "id": "BK_bk_7_1",
+      "source": "BOOK:bk_7",
+      "title": "7 Thói Quen Hiệu Quả",
+      "chunk_text": "Khung làm việc để phát triển thói quen dẫn tới hiệu quả cá nhân và nghề nghiệp.",
+      "tokens": 17
+    },
+    {
+      "id": "BK_bk_8_1",
+      "source": "BOOK:bk_8",
+      "title": "Đàn ông sao Hỏa đàn bà sao Kim",
+      "chunk_text": "Hiểu khác biệt giới tính để cải thiện giao tiếp và mối quan hệ tình cảm.",
+      "tokens": 16
+    },
+    {
+      "id": "BK_bk_9_1",
+      "source": "BOOK:bk_9",
+      "title": "Cho tôi xin một vé đi tuổi thơ",
+      "chunk_text": "Một hành trình trở về thế giới trẻ thơ đầy hồn nhiên qua góc nhìn của bốn đứa trẻ “siêu quậy”: Mùi, Tí, Hải cò và cu Tủn. Cuốn sách tái hiện những ký ức tinh nghịch, trong sáng và đầy mơ mộng, đồng thời nhắc người lớn nhớ lại cách mình đã từng nhìn thế giới – bằng sự tò mò, vô tư và yêu đời. Đây là lời nhắn gửi nhẹ nhàng rằng đôi khi chúng ta cần một “tấm vé” để trở lại với tâm hồn trong trẻo ngày xưa.",
+      "tokens": 92
+    },
+    {
+      "id": "BK_bk_10_1",
+      "source": "BOOK:bk_10",
+      "title": "Dế Mèn Phiêu Lưu Ký",
+      "chunk_text": "Câu chuyện trưởng thành của Dế Mèn – một chàng dế trẻ bồng bột nhưng giàu nghĩa khí. Sau bài học cay đắng vì sự kiêu ngạo của mình, Dế Mèn bắt đầu chuyến phiêu lưu qua nhiều vùng đất, gặp gỡ đủ loại sinh vật và chứng kiến bao mảnh đời khác nhau. Hành trình ấy giúp cậu hiểu về trách nhiệm, tình bạn, lòng dũng cảm và tinh thần đoàn kết. Đây là một tác phẩm giàu tính nhân văn, đầy màu sắc và trí tưởng tượng.",
+      "tokens": 88
+    },
+    {
+      "id": "BK_bk_11_1",
+      "source": "BOOK:bk_11",
+      "title": "Bí mật tư duy triệu phú",
+      "chunk_text": "Thay đổi tư duy về tiền bạc để thay đổi vận mệnh tài chính cá nhân.",
+      "tokens": 16
+    },
+    {
+      "id": "BK_bk_12_1",
+      "source": "BOOK:bk_12",
+      "title": "Thiết kế cuộc đời",
+      "chunk_text": "Làm thế nào thiết kế cuộc sống sự nghiệp ý nghĩa bằng phương pháp thiết kế sản phẩm.",
+      "tokens": 18
+    },
+    {
+      "id": "BK_bk_13_1",
+      "source": "BOOK:bk_13",
+      "title": "Những người khốn khổ",
+      "chunk_text": "Thiên tiểu thuyết lịch sử về nỗi đau, công lý và nhân văn tại Pháp thế kỷ XIX.",
+      "tokens": 18
+    },
+    {
+      "id": "BK_bk_14_1",
+      "source": "BOOK:bk_14",
+      "title": "Hoàng tử bé",
+      "chunk_text": "Câu chuyện giản dị, giàu triết lý về tình bạn, tình yêu và sự trưởng thành.",
+      "tokens": 16
+    },
+    {
+      "id": "BK_bk_15_1",
+      "source": "BOOK:bk_15",
+      "title": "Bí mật của may mắn",
+      "chunk_text": "Nghiên cứu về thế nào may mắn hoạt động và cách tăng cơ hội tốt lành.",
+      "tokens": 16
+    },
+    {
+      "id": "BK_bk_16_1",
+      "source": "BOOK:bk_16",
+      "title": "Tâm lý học đám đông",
+      "chunk_text": "Phân tích hành vi tập thể, ảnh hưởng của đám đông đến quyết định và chính trị.",
+      "tokens": 17
+    },
+    {
+      "id": "BK_bk_17_1",
+      "source": "BOOK:bk_17",
+      "title": "Sự im lặng của bầy cừu",
+      "chunk_text": "Tiểu thuyết trinh thám rùng rợn, cuộc đối đầu tâm lý kịch tính với kẻ sát nhân.",
+      "tokens": 17
+    },
+    {
+      "id": "BK_bk_18_1",
+      "source": "BOOK:bk_18",
+      "title": "Mắt Biếc",
+      "chunk_text": "Câu chuyện dịu dàng và đầy day dứt về Ngạn – chàng trai dành cả tuổi trẻ yêu thầm cô bạn thuở nhỏ tên Hà Lan. Tình yêu chân thành nhưng đơn phương ấy kéo dài suốt những năm tháng trưởng thành, xen lẫn tiếc nuối, khao khát và vẻ đẹp trong trẻo của miền quê thuở ấy. Đây là hành trình về ký ức, sự trưởng thành và nỗi buồn đẹp của những điều không thể nắm giữ.",
+      "tokens": 78
+    },
+    {
+      "id": "BK_bk_19_1",
+      "source": "BOOK:bk_19",
+      "title": "Nghệ thuật giao tiếp để thành công",
+      "chunk_text": "Các nguyên tắc căn bản để tạo ấn tượng tốt và ảnh hưởng người khác hiệu quả.",
+      "tokens": 17
+    },
+    {
+      "id": "BK_bk_20_1",
+      "source": "BOOK:bk_20",
+      "title": "Cuộc đời Pi",
+      "chunk_text": "Chuyến phiêu lưu của cậu bé và con hổ trên biển, câu chuyện về đức tin và sinh tồn.",
+      "tokens": 19
+    },
+    {
+      "id": "BK_bk_21_1",
+      "source": "BOOK:bk_21",
+      "title": "Người bán hàng vĩ đại",
+      "chunk_text": "Những nguyên tắc bán hàng và quảng cáo hiệu quả từ góc nhìn chuyên gia.",
+      "tokens": 15
+    },
+    {
+      "id": "BK_bk_22_1",
+      "source": "BOOK:bk_22",
+      "title": "Đời ngắn đừng ngủ dài",
+      "chunk_text": "Lời nhắc sống trọn vẹn, quản lý thời gian và phát triển bản thân mỗi ngày.",
+      "tokens": 16
+    },
+    {
+      "id": "BK_bk_23_1",
+      "source": "BOOK:bk_23",
+      "title": "Cây cam ngọt của tôi",
+      "chunk_text": "Câu chuyện cảm động về Zezé – cậu bé nghèo nhưng giàu trí tưởng tượng – và hành trình trưởng thành đầy nỗi đau xen lẫn sự ấm áp của tình yêu thương.",
+      "tokens": 31
+    },
+    {
+      "id": "BK_bk_24_1",
+      "source": "BOOK:bk_24",
+      "title": "Chuyện con mèo dạy hải âu bay",
+      "chunk_text": "Một chú mèo nhận lời hứa dạy một chú hải âu mồ côi biết bay, mang thông điệp đẹp về tình yêu thương, trách nhiệm và niềm tin vào điều tưởng chừng không thể.",
+      "tokens": 34
+    },
+    {
+      "id": "BK_bk_25_1",
+      "source": "BOOK:bk_25",
+      "title": "Mật mã Da Vinci",
+      "chunk_text": "Cuộc đua giải mã bí mật lịch sử ẩn trong các tác phẩm nghệ thuật và tôn giáo.",
+      "tokens": 18
+    },
+    {
+      "id": "BK_bk_26_1",
+      "source": "BOOK:bk_26",
+      "title": "Kẻ trộm sách",
+      "chunk_text": "Trong bối cảnh Đức Quốc Xã, cô bé Liesel tìm thấy sức mạnh của chữ nghĩa để chống lại mất mát, chiến tranh và cái ác, được kể lại qua góc nhìn của Thần Chết.",
+      "tokens": 35
+    },
+    {
+      "id": "BK_bk_27_1",
+      "source": "BOOK:bk_27",
+      "title": "Rừng Na Uy",
+      "chunk_text": "Một câu chuyện trầm buồn về tình yêu, mất mát và tuổi trẻ thông qua hành trình trưởng thành của Toru Watanabe trong những năm đại học.",
+      "tokens": 27
+    },
+    {
+      "id": "BK_bk_28_1",
+      "source": "BOOK:bk_28",
+      "title": "Trăm năm cô đơn",
+      "chunk_text": "Biên niên sử kỳ ảo về dòng họ Buendía trong ngôi làng Macondo, nơi lịch sử, tình yêu, bi kịch và phép màu đan cài trong vòng lặp số phận.",
+      "tokens": 30
+    },
+    {
+      "id": "BK_bk_29_1",
+      "source": "BOOK:bk_29",
+      "title": "Một thoáng ta rực rỡ ở nhân gian",
+      "chunk_text": "Lá thư đầy cảm xúc của một chàng trai trẻ gửi mẹ, kể lại tuổi thơ di dân, tình yêu đầu đời và hành trình tìm kiếm bản dạng giữa đau thương và hy vọng.",
+      "tokens": 35
+    },
+    {
+      "id": "BK_bk_30_1",
+      "source": "BOOK:bk_30",
+      "title": "Tư duy nhanh và chậm",
+      "chunk_text": "Hai hệ tư duy: nhanh trực giác và chậm suy luận, ảnh hưởng tới quyết định hàng ngày.",
+      "tokens": 18
+    },
+    {
+      "id": "BK_bk_31_1",
+      "source": "BOOK:bk_31",
+      "title": "Bắt Trẻ Đồng Xanh",
+      "chunk_text": "Hành trình của Holden Caulfield – một thiếu niên lạc lõng, nổi loạn – vật lộn với nỗi cô đơn, sự hoài nghi và khát khao tìm lại sự thuần khiết trong một thế giới “giả tạo”.",
+      "tokens": 35
+    },
+    {
+      "id": "BK_bk_32_1",
+      "source": "BOOK:bk_32",
+      "title": "Giết con chim nhại",
+      "chunk_text": "Qua góc nhìn trẻ thơ của Scout, câu chuyện phơi bày bất công chủng tộc và sức mạnh của lòng dũng cảm, đồng thời ca ngợi sự tử tế ngay trong những thời khắc tăm tối.",
+      "tokens": 36
+    },
+    {
+      "id": "BK_bk_33_1",
+      "source": "BOOK:bk_33",
+      "title": "Bố Già",
+      "chunk_text": "Bức tranh sâu sắc về thế giới mafia Mỹ, xoay quanh quyền lực, gia đình và sự chuyển giao tàn khốc giữa các thế hệ trong dòng họ Corleone.",
+      "tokens": 29
+    },
+    {
+      "id": "BK_bk_34_1",
+      "source": "BOOK:bk_34",
+      "title": "Đồi Gió Hú",
+      "chunk_text": "Một bi kịch tình yêu đầy ám ảnh giữa Heathcliff và Catherine, nơi đam mê, hận thù và sự trả thù kéo dài qua nhiều thế hệ.",
+      "tokens": 27
+    },
+    {
+      "id": "BK_bk_35_1",
+      "source": "BOOK:bk_35",
+      "title": "Kiêu Hãnh và Định Kiến",
+      "chunk_text": "Câu chuyện lãng mạn nhưng sắc sảo về Elizabeth Bennet và Mr. Darcy, xoay quanh định kiến xã hội, sự trưởng thành và bài học về lòng tự trọng.",
+      "tokens": 29
+    },
+    {
+      "id": "BK_bk_36_1",
+      "source": "BOOK:bk_36",
+      "title": "Ông Già và Biển Cả",
+      "chunk_text": "Hành trình kiên cường của lão ngư Santiago chống lại con cá kiếm khổng lồ, tượng trưng cho ý chí, lòng kiêu hãnh và phẩm giá của con người.",
+      "tokens": 29
+    },
+    {
+      "id": "BK_bk_37_1",
+      "source": "BOOK:bk_37",
+      "title": "Thế Giới Của Sophie",
+      "chunk_text": "Một cô bé bước vào thế giới triết học qua những lá thư bí ẩn, mở ra hành trình khám phá lịch sử tư tưởng và những câu hỏi lớn của con người.",
+      "tokens": 33
+    },
+    {
+      "id": "BK_bk_38_1",
+      "source": "BOOK:bk_38",
+      "title": "Đi Tìm Lẽ Sống",
+      "chunk_text": "Frankl kể về trải nghiệm trong trại tập trung và khẳng định rằng ý nghĩa sống – chứ không phải hoàn cảnh – giúp con người vượt qua đau khổ tột cùng.",
+      "tokens": 30
+    },
+    {
+      "id": "BK_bk_39_1",
+      "source": "BOOK:bk_39",
+      "title": "Khi Lỗi Thuộc Về Những Vì Sao",
+      "chunk_text": "Chuyện tình cảm động của Hazel và Gus, hai thiếu niên mắc bệnh hiểm nghèo, đối mặt với tình yêu, mất mát và ý nghĩa thật sự của cuộc sống.",
+      "tokens": 30
+    },
+    {
+      "id": "BK_bk_40_1",
+      "source": "BOOK:bk_40",
+      "title": "Suối Nguồn",
+      "chunk_text": "Cuộc đời của kiến trúc sư Howard Roark – biểu tượng của chủ nghĩa cá nhân, sáng tạo và sự kiên định tuyệt đối với lý tưởng của mình.",
+      "tokens": 28
+    },
+    {
+      "id": "BK_bk_41_1",
+      "source": "BOOK:bk_41",
+      "title": "7 thói quen của bạn trẻ thành đạt",
+      "chunk_text": "Cuốn sách hướng dẫn thanh thiếu niên xây dựng kỷ luật, tư duy tích cực và kỹ năng sống thiết yếu để đạt sự hiệu quả và phát triển bản thân.",
+      "tokens": 31
+    },
+    {
+      "id": "BK_bk_42_1",
+      "source": "BOOK:bk_42",
+      "title": "Từ Tốt Đến Vĩ Đại",
+      "chunk_text": "Nghiên cứu chỉ ra các yếu tố giúp doanh nghiệp “nhảy vọt”, nhấn mạnh vào lãnh đạo cấp độ 5, kỷ luật và mô hình con nhím để đạt thành công bền vững.",
+      "tokens": 33
+    },
+    {
+      "id": "BK_bk_43_1",
+      "source": "BOOK:bk_43",
+      "title": "Thiên nga đen: Xác suất cực nhỏ - tác động cực lớn",
+      "chunk_text": "Khám phá những biến cố hiếm gặp nhưng tạo ra tác động khổng lồ, và cách con người thường xuyên đánh giá sai rủi ro, hiểu lầm sự ngẫu nhiên trong cuộc sống.",
+      "tokens": 33
+    },
+    {
+      "id": "BK_bk_44_1",
+      "source": "BOOK:bk_44",
+      "title": "Dám Nghĩ Lớn",
+      "chunk_text": "Khuyến khích người đọc mở rộng tư duy, tin vào khả năng của bản thân và hành động theo những mục tiêu lớn để tạo ra thành công vượt trội.",
+      "tokens": 30
+    },
+    {
+      "id": "BK_bk_45_1",
+      "source": "BOOK:bk_45",
+      "title": "Ai Lấy Miếng Pho Mát Của Tôi?",
+      "chunk_text": "Một câu chuyện ngụ ngôn đơn giản nhưng sâu sắc về việc thích nghi với thay đổi, chấp nhận chuyển dịch và chủ động tìm kiếm cơ hội mới.",
+      "tokens": 29
+    },
+    {
+      "id": "BK_bk_46_1",
+      "source": "BOOK:bk_46",
+      "title": "Biên Niên Ký Chim Vặn Dây Cót",
+      "chunk_text": "Một hành trình kỳ ảo và u tối của Toru Okada trong cuộc tìm kiếm người vợ mất tích, đan xen những bí ẩn tâm lý, chiến tranh và thế giới siêu thực.",
+      "tokens": 33
+    },
+    {
+      "id": "BK_bk_47_1",
+      "source": "BOOK:bk_47",
+      "title": "Kafka Bên Bờ Biển",
+      "chunk_text": "Hai câu chuyện song song – cậu bé Kafka bỏ nhà đi và ông lão Nakata nói chuyện với mèo – hòa quyện theo cách siêu thực, khám phá định mệnh, kí ức và bản ngã.",
+      "tokens": 34
+    },
+    {
+      "id": "BK_bk_48_1",
+      "source": "BOOK:bk_48",
+      "title": "Tên Của Đóa Hồng",
+      "chunk_text": "Một vụ án bí ẩn trong tu viện thời Trung Cổ, nơi triết học, tôn giáo và tội ác đan xen qua cuộc điều tra sắc bén của tu sĩ William xứ Baskerville.",
+      "tokens": 33
+    },
+    {
+      "id": "BK_bk_49_1",
+      "source": "BOOK:bk_49",
+      "title": "Người Đua Diều",
+      "chunk_text": "Người Đua Diều kể về Amir, một cậu bé Afghanistan mang nỗi ám ảnh tội lỗi vì đã phản bội người bạn trung thành Hassan, và hành trình trưởng thành đầy đau đớn khi anh quay lại quê hương để chuộc lại lỗi lầm. Đây là câu chuyện xúc động về tình bạn, sự phản bội và khát vọng cứu rỗi.",
+      "tokens": 61
+    }
+  ],
+  "term_index": {
+    "thành": [
+      "BK_bk_42_1",
+      "BK_bk_44_1",
+      "BK_bk_10_1",
+      "BK_bk_35_1",
+      "BK_bk_14_1",
+      "FAQ_28",
+      "BK_bk_18_1",
+      "FAQ_1",
+      "BK_bk_23_1",
+      "BK_bk_49_1",
+      "BK_bk_27_1",
+      "BK_bk_1_1"
+    ],
+    "từ": [
+      "FAQ_10",
+      "BK_bk_21_1",
+      "FAQ_22",
+      "BK_bk_5_1",
+      "FAQ_1",
+      "FAQ_8"
+    ],
+    "thể": [
+      "FAQ_5",
+      "BK_bk_16_1",
+      "FAQ_7",
+      "FAQ_18",
+      "FAQ_25",
+      "FAQ_3",
+      "FAQ_12",
+      "FAQ_1",
+      "BK_bk_18_1",
+      "FAQ_31",
+      "FAQ_8",
+      "BK_bk_24_1",
+      "FAQ_32"
+    ],
+    "nhận": [
+      "FAQ_19",
+      "FAQ_10",
+      "FAQ_5",
+      "FAQ_2",
+      "FAQ_8",
+      "FAQ_7",
+      "FAQ_22",
+      "BK_bk_45_1",
+      "BK_bk_24_1",
+      "FAQ_1",
+      "FAQ_9",
+      "FAQ_4"
+    ],
+    "gian": [
+      "FAQ_10",
+      "FAQ_14",
+      "FAQ_6",
+      "FAQ_22",
+      "FAQ_1",
+      "BK_bk_22_1"
+    ],
+    "trong": [
+      "BK_bk_38_1",
+      "FAQ_7",
+      "FAQ_22",
+      "FAQ_8",
+      "BK_bk_48_1",
+      "FAQ_29",
+      "BK_bk_31_1",
+      "FAQ_14",
+      "BK_bk_9_1",
+      "FAQ_3",
+      "BK_bk_18_1",
+      "BK_bk_46_1",
+      "BK_bk_33_1",
+      "FAQ_18",
+      "BK_bk_43_1",
+      "BK_bk_27_1",
+      "BK_bk_32_1",
+      "BK_bk_26_1",
+      "FAQ_1",
+      "BK_bk_25_1",
+      "BK_bk_28_1"
+    ],
+    "thường": [
+      "BK_bk_43_1",
+      "FAQ_10",
+      "FAQ_1"
+    ],
+    "thời": [
+      "FAQ_10",
+      "FAQ_14",
+      "BK_bk_9_1",
+      "FAQ_6",
+      "FAQ_22",
+      "FAQ_1",
+      "BK_bk_22_1",
+      "BK_bk_48_1",
+      "BK_bk_32_1"
+    ],
+    "tùy": [
+      "FAQ_1"
+    ],
+    "1": [
+      "FAQ_1"
+    ],
+    "việc": [
+      "BK_bk_7_1",
+      "FAQ_10",
+      "FAQ_1",
+      "BK_bk_45_1"
+    ],
+    "vực": [
+      "FAQ_2",
+      "FAQ_7",
+      "FAQ_3",
+      "FAQ_1",
+      "FAQ_4"
+    ],
+    "hàng": [
+      "FAQ_23",
+      "FAQ_7",
+      "FAQ_22",
+      "FAQ_30",
+      "FAQ_8",
+      "FAQ_14",
+      "BK_bk_21_1",
+      "FAQ_27",
+      "BK_bk_30_1",
+      "FAQ_3",
+      "FAQ_11",
+      "FAQ_5",
+      "FAQ_2",
+      "FAQ_6",
+      "FAQ_18",
+      "FAQ_4",
+      "FAQ_24",
+      "FAQ_19",
+      "FAQ_1",
+      "FAQ_16"
+    ],
+    "khu": [
+      "FAQ_2",
+      "FAQ_7",
+      "FAQ_3",
+      "FAQ_1",
+      "FAQ_4"
+    ],
+    "2": [
+      "FAQ_1"
+    ],
+    "ngày": [
+      "FAQ_10",
+      "BK_bk_9_1",
+      "BK_bk_30_1",
+      "FAQ_7",
+      "FAQ_22",
+      "FAQ_3",
+      "BK_bk_22_1",
+      "FAQ_1",
+      "FAQ_8"
+    ],
+    "nội": [
+      "FAQ_16",
+      "FAQ_1"
+    ],
+    "giao": [
+      "FAQ_6",
+      "BK_bk_33_1",
+      "BK_bk_8_1",
+      "FAQ_3",
+      "FAQ_1",
+      "BK_bk_1_1"
+    ],
+    "làm": [
+      "BK_bk_7_1",
+      "BK_bk_12_1",
+      "FAQ_10",
+      "FAQ_1"
+    ],
+    "5": [
+      "BK_bk_42_1",
+      "FAQ_10",
+      "FAQ_1"
+    ],
+    "với": [
+      "FAQ_29",
+      "BK_bk_31_1",
+      "BK_bk_9_1",
+      "BK_bk_17_1",
+      "BK_bk_47_1",
+      "BK_bk_45_1",
+      "BK_bk_39_1",
+      "FAQ_1",
+      "BK_bk_40_1"
+    ],
+    "có": [
+      "FAQ_10",
+      "FAQ_21",
+      "FAQ_7",
+      "FAQ_30",
+      "FAQ_8",
+      "FAQ_14",
+      "FAQ_27",
+      "FAQ_3",
+      "FAQ_5",
+      "FAQ_6",
+      "FAQ_18",
+      "FAQ_28",
+      "FAQ_31",
+      "FAQ_4",
+      "FAQ_19",
+      "FAQ_25",
+      "FAQ_12",
+      "FAQ_1",
+      "FAQ_9",
+      "FAQ_32"
+    ],
+    "sách": [
+      "FAQ_13",
+      "FAQ_10",
+      "BK_bk_9_1",
+      "FAQ_23",
+      "FAQ_2",
+      "FAQ_15",
+      "FAQ_21",
+      "FAQ_7",
+      "FAQ_12",
+      "BK_bk_41_1",
+      "FAQ_9",
+      "FAQ_8"
+    ],
+    "thuộc": [
+      "FAQ_6",
+      "FAQ_2"
+    ],
+    "phí": [
+      "FAQ_14",
+      "FAQ_23",
+      "FAQ_6",
+      "FAQ_2",
+      "FAQ_11"
+    ],
+    "vào": [
+      "BK_bk_42_1",
+      "BK_bk_44_1",
+      "FAQ_2",
+      "BK_bk_24_1",
+      "BK_bk_37_1",
+      "FAQ_26",
+      "FAQ_20"
+    ],
+    "bước": [
+      "BK_bk_37_1",
+      "FAQ_6",
+      "FAQ_2"
+    ],
+    "chi": [
+      "FAQ_2"
+    ],
+    "được": [
+      "FAQ_5",
+      "FAQ_23",
+      "FAQ_6",
+      "FAQ_15",
+      "FAQ_2",
+      "FAQ_27",
+      "BK_bk_26_1",
+      "FAQ_28",
+      "FAQ_4"
+    ],
+    "và": [
+      "BK_bk_37_1",
+      "BK_bk_10_1",
+      "BK_bk_36_1",
+      "FAQ_21",
+      "BK_bk_16_1",
+      "BK_bk_38_1",
+      "BK_bk_6_1",
+      "FAQ_30",
+      "BK_bk_39_1",
+      "BK_bk_5_1",
+      "BK_bk_20_1",
+      "BK_bk_23_1",
+      "BK_bk_24_1",
+      "FAQ_8",
+      "BK_bk_48_1",
+      "BK_bk_2_1",
+      "BK_bk_7_1",
+      "BK_bk_34_1",
+      "BK_bk_42_1",
+      "FAQ_29",
+      "BK_bk_31_1",
+      "BK_bk_0_1",
+      "BK_bk_9_1",
+      "BK_bk_15_1",
+      "BK_bk_21_1",
+      "FAQ_27",
+      "BK_bk_3_1",
+      "BK_bk_30_1",
+      "BK_bk_35_1",
+      "BK_bk_47_1",
+      "BK_bk_45_1",
+      "BK_bk_49_1",
+      "BK_bk_18_1",
+      "BK_bk_41_1",
+      "BK_bk_40_1",
+      "BK_bk_1_1",
+      "BK_bk_46_1",
+      "FAQ_20",
+      "BK_bk_44_1",
+      "FAQ_13",
+      "FAQ_6",
+      "FAQ_2",
+      "BK_bk_33_1",
+      "BK_bk_29_1",
+      "BK_bk_8_1",
+      "FAQ_28",
+      "BK_bk_27_1",
+      "BK_bk_28_1",
+      "BK_bk_43_1",
+      "FAQ_24",
+      "BK_bk_19_1",
+      "BK_bk_32_1",
+      "BK_bk_26_1",
+      "FAQ_25",
+      "BK_bk_13_1",
+      "BK_bk_14_1",
+      "BK_bk_22_1",
+      "BK_bk_25_1",
+      "FAQ_26",
+      "FAQ_16"
+    ],
+    "thị": [
+      "FAQ_17",
+      "FAQ_2"
+    ],
+    "tiết": [
+      "FAQ_2"
+    ],
+    "toán": [
+      "FAQ_6",
+      "FAQ_2",
+      "FAQ_18",
+      "FAQ_4",
+      "FAQ_16",
+      "FAQ_20"
+    ],
+    "thanh": [
+      "FAQ_6",
+      "FAQ_2",
+      "FAQ_18",
+      "BK_bk_41_1",
+      "FAQ_4",
+      "FAQ_16",
+      "FAQ_20"
+    ],
+    "trọng": [
+      "BK_bk_35_1",
+      "FAQ_2"
+    ],
+    "lượng": [
+      "FAQ_21",
+      "FAQ_2"
+    ],
+    "dịch": [
+      "FAQ_4",
+      "FAQ_3",
+      "BK_bk_45_1",
+      "FAQ_2"
+    ],
+    "vụ": [
+      "FAQ_4",
+      "BK_bk_48_1",
+      "FAQ_3",
+      "FAQ_2"
+    ],
+    "vận": [
+      "BK_bk_11_1",
+      "FAQ_11",
+      "FAQ_14",
+      "FAQ_2"
+    ],
+    "loại": [
+      "BK_bk_10_1",
+      "FAQ_2"
+    ],
+    "chuyển": [
+      "FAQ_14",
+      "FAQ_2",
+      "BK_bk_33_1",
+      "BK_bk_45_1",
+      "FAQ_11"
+    ],
+    "phụ": [
+      "FAQ_6",
+      "FAQ_2"
+    ],
+    "hiển": [
+      "FAQ_17",
+      "FAQ_2"
+    ],
+    "tại": [
+      "FAQ_6",
+      "FAQ_2",
+      "FAQ_3",
+      "BK_bk_13_1",
+      "FAQ_4",
+      "BK_bk_2_1",
+      "FAQ_20"
+    ],
+    "dụng": [
+      "FAQ_8",
+      "FAQ_22",
+      "FAQ_3",
+      "FAQ_17",
+      "FAQ_4",
+      "FAQ_20"
+    ],
+    "bạn": [
+      "FAQ_5",
+      "BK_bk_10_1",
+      "FAQ_7",
+      "FAQ_18",
+      "FAQ_25",
+      "FAQ_3",
+      "BK_bk_14_1",
+      "BK_bk_49_1",
+      "FAQ_12",
+      "BK_bk_18_1",
+      "FAQ_31",
+      "FAQ_8",
+      "FAQ_32"
+    ],
+    "đặt": [
+      "FAQ_7",
+      "FAQ_3"
+    ],
+    "chọn": [
+      "FAQ_12",
+      "FAQ_13",
+      "FAQ_7",
+      "FAQ_3"
+    ],
+    "nhanh": [
+      "BK_bk_30_1",
+      "FAQ_3"
+    ],
+    "khi": [
+      "FAQ_10",
+      "FAQ_5",
+      "BK_bk_9_1",
+      "BK_bk_6_1",
+      "FAQ_3",
+      "BK_bk_49_1",
+      "FAQ_4"
+    ],
+    "một": [
+      "BK_bk_31_1",
+      "BK_bk_9_1",
+      "BK_bk_10_1",
+      "BK_bk_29_1",
+      "FAQ_3",
+      "BK_bk_45_1",
+      "BK_bk_49_1",
+      "BK_bk_24_1",
+      "BK_bk_48_1",
+      "BK_bk_27_1",
+      "BK_bk_37_1",
+      "BK_bk_46_1",
+      "BK_bk_34_1"
+    ],
+    "số": [
+      "FAQ_26",
+      "BK_bk_28_1",
+      "FAQ_3"
+    ],
+    "áp": [
+      "FAQ_22",
+      "FAQ_3",
+      "FAQ_17",
+      "BK_bk_23_1",
+      "FAQ_4",
+      "FAQ_20"
+    ],
+    "hỗ": [
+      "FAQ_4",
+      "FAQ_15",
+      "FAQ_7",
+      "FAQ_6"
+    ],
+    "trợ": [
+      "FAQ_4",
+      "FAQ_15",
+      "FAQ_7",
+      "FAQ_6"
+    ],
+    "cod": [
+      "FAQ_4",
+      "FAQ_16"
+    ],
+    "các": [
+      "BK_bk_42_1",
+      "BK_bk_33_1",
+      "FAQ_9",
+      "FAQ_4",
+      "BK_bk_25_1",
+      "BK_bk_19_1"
+    ],
+    "cskh": [
+      "FAQ_13",
+      "FAQ_5",
+      "FAQ_23",
+      "FAQ_25",
+      "FAQ_15"
+    ],
+    "phận": [
+      "BK_bk_28_1",
+      "FAQ_13",
+      "FAQ_5",
+      "BK_bk_4_1"
+    ],
+    "đơn": [
+      "BK_bk_31_1",
+      "FAQ_5",
+      "FAQ_27",
+      "FAQ_18",
+      "BK_bk_45_1",
+      "BK_bk_18_1"
+    ],
+    "đổi": [
+      "FAQ_13",
+      "BK_bk_11_1",
+      "FAQ_5",
+      "FAQ_14",
+      "FAQ_21",
+      "FAQ_27",
+      "FAQ_22",
+      "BK_bk_45_1",
+      "FAQ_11",
+      "FAQ_9",
+      "FAQ_8"
+    ],
+    "đi": [
+      "BK_bk_47_1",
+      "FAQ_5"
+    ],
+    "liên": [
+      "FAQ_13",
+      "FAQ_5",
+      "FAQ_23",
+      "FAQ_25",
+      "FAQ_15",
+      "FAQ_32"
+    ],
+    "bộ": [
+      "FAQ_13",
+      "FAQ_5"
+    ],
+    "bằng": [
+      "BK_bk_12_1",
+      "FAQ_5",
+      "BK_bk_9_1"
+    ],
+    "trước": [
+      "FAQ_5"
+    ],
+    "hệ": [
+      "FAQ_13",
+      "FAQ_5",
+      "FAQ_23",
+      "BK_bk_30_1",
+      "FAQ_25",
+      "BK_bk_33_1",
+      "BK_bk_8_1",
+      "FAQ_15",
+      "BK_bk_1_1",
+      "BK_bk_34_1",
+      "FAQ_32"
+    ],
+    "thay": [
+      "BK_bk_45_1",
+      "BK_bk_11_1",
+      "FAQ_5",
+      "FAQ_23"
+    ],
+    "chỉ": [
+      "BK_bk_42_1",
+      "FAQ_26",
+      "FAQ_5",
+      "FAQ_22"
+    ],
+    "địa": [
+      "FAQ_26",
+      "FAQ_5",
+      "FAQ_16"
+    ],
+    "cách": [
+      "FAQ_5",
+      "BK_bk_9_1",
+      "BK_bk_15_1",
+      "BK_bk_47_1",
+      "BK_bk_43_1"
+    ],
+    "gửi": [
+      "FAQ_13",
+      "FAQ_5",
+      "BK_bk_9_1",
+      "FAQ_23",
+      "BK_bk_29_1",
+      "FAQ_31",
+      "FAQ_15",
+      "FAQ_32"
+    ],
+    "thông": [
+      "FAQ_6",
+      "FAQ_28",
+      "BK_bk_24_1",
+      "BK_bk_27_1",
+      "FAQ_26",
+      "FAQ_24"
+    ],
+    "quốc": [
+      "BK_bk_26_1",
+      "FAQ_16",
+      "FAQ_6"
+    ],
+    "gia": [
+      "BK_bk_33_1",
+      "BK_bk_21_1",
+      "FAQ_6"
+    ],
+    "tôi": [
+      "FAQ_10",
+      "FAQ_21",
+      "FAQ_6",
+      "FAQ_11",
+      "FAQ_9",
+      "FAQ_26",
+      "FAQ_24"
+    ],
+    "chúng": [
+      "FAQ_10",
+      "BK_bk_9_1",
+      "FAQ_21",
+      "FAQ_6",
+      "FAQ_11",
+      "FAQ_9",
+      "FAQ_24"
+    ],
+    "báo": [
+      "FAQ_32",
+      "FAQ_6"
+    ],
+    "tế": [
+      "BK_bk_32_1",
+      "FAQ_16",
+      "FAQ_6"
+    ],
+    "quá": [
+      "FAQ_7"
+    ],
+    "trình": [
+      "BK_bk_31_1",
+      "BK_bk_9_1",
+      "BK_bk_10_1",
+      "BK_bk_0_1",
+      "BK_bk_36_1",
+      "FAQ_7",
+      "BK_bk_29_1",
+      "BK_bk_49_1",
+      "BK_bk_18_1",
+      "BK_bk_23_1",
+      "BK_bk_27_1",
+      "BK_bk_37_1",
+      "BK_bk_46_1"
+    ],
+    "giờ": [
+      "FAQ_29",
+      "FAQ_7"
+    ],
+    "nếu": [
+      "FAQ_14",
+      "FAQ_21",
+      "FAQ_7",
+      "FAQ_17",
+      "FAQ_11",
+      "FAQ_12",
+      "FAQ_8"
+    ],
+    "nguyên": [
+      "FAQ_8",
+      "BK_bk_21_1",
+      "BK_bk_19_1"
+    ],
+    "kể": [
+      "FAQ_10",
+      "BK_bk_26_1",
+      "BK_bk_38_1",
+      "FAQ_22",
+      "BK_bk_29_1",
+      "BK_bk_49_1",
+      "FAQ_8"
+    ],
+    "chưa": [
+      "FAQ_8"
+    ],
+    "vòng": [
+      "FAQ_8",
+      "FAQ_29",
+      "BK_bk_28_1",
+      "FAQ_22"
+    ],
+    "vẹn": [
+      "FAQ_8",
+      "BK_bk_22_1"
+    ],
+    "14": [
+      "FAQ_8",
+      "FAQ_22"
+    ],
+    "sử": [
+      "BK_bk_37_1",
+      "BK_bk_13_1",
+      "BK_bk_5_1",
+      "FAQ_8",
+      "BK_bk_25_1",
+      "BK_bk_28_1"
+    ],
+    "trả": [
+      "FAQ_13",
+      "FAQ_10",
+      "FAQ_14",
+      "FAQ_21",
+      "FAQ_22",
+      "FAQ_30",
+      "FAQ_12",
+      "FAQ_8",
+      "BK_bk_34_1"
+    ],
+    "7": [
+      "FAQ_8",
+      "FAQ_22"
+    ],
+    "còn": [
+      "FAQ_8"
+    ],
+    "in": [
+      "FAQ_9",
+      "FAQ_21"
+    ],
+    "lỗi": [
+      "FAQ_14",
+      "FAQ_21",
+      "FAQ_22",
+      "FAQ_11",
+      "BK_bk_49_1",
+      "FAQ_9",
+      "FAQ_32"
+    ],
+    "bị": [
+      "FAQ_9"
+    ],
+    "tiền": [
+      "FAQ_13",
+      "FAQ_10",
+      "BK_bk_11_1",
+      "FAQ_23",
+      "FAQ_9",
+      "FAQ_15"
+    ],
+    "hoàn": [
+      "FAQ_13",
+      "FAQ_10",
+      "FAQ_23",
+      "BK_bk_38_1",
+      "FAQ_9",
+      "FAQ_15"
+    ],
+    "sai": [
+      "BK_bk_43_1",
+      "FAQ_9"
+    ],
+    "mới": [
+      "BK_bk_45_1",
+      "FAQ_12",
+      "FAQ_9"
+    ],
+    "hoặc": [
+      "FAQ_19",
+      "FAQ_13",
+      "FAQ_23",
+      "FAQ_32",
+      "FAQ_11",
+      "FAQ_12",
+      "FAQ_9",
+      "FAQ_31",
+      "FAQ_15",
+      "FAQ_20"
+    ],
+    "chấp": [
+      "BK_bk_45_1",
+      "FAQ_9"
+    ],
+    "rách": [
+      "FAQ_9"
+    ],
+    "cho": [
+      "FAQ_29",
+      "BK_bk_36_1",
+      "FAQ_27",
+      "FAQ_22",
+      "FAQ_28",
+      "FAQ_9",
+      "FAQ_24"
+    ],
+    "về": [
+      "BK_bk_11_1",
+      "FAQ_10",
+      "BK_bk_10_1",
+      "BK_bk_38_1",
+      "BK_bk_6_1",
+      "BK_bk_5_1",
+      "BK_bk_20_1",
+      "BK_bk_23_1",
+      "BK_bk_24_1",
+      "BK_bk_9_1",
+      "BK_bk_15_1",
+      "BK_bk_3_1",
+      "BK_bk_35_1",
+      "BK_bk_45_1",
+      "BK_bk_49_1",
+      "BK_bk_18_1",
+      "FAQ_13",
+      "BK_bk_33_1",
+      "BK_bk_27_1",
+      "BK_bk_4_1",
+      "BK_bk_13_1",
+      "BK_bk_14_1",
+      "BK_bk_28_1"
+    ],
+    "3": [
+      "FAQ_10",
+      "FAQ_24"
+    ],
+    "sản": [
+      "FAQ_14",
+      "FAQ_21",
+      "BK_bk_3_1",
+      "FAQ_22",
+      "BK_bk_12_1",
+      "FAQ_11"
+    ],
+    "khách": [
+      "FAQ_19",
+      "FAQ_14",
+      "FAQ_27",
+      "FAQ_30",
+      "FAQ_11",
+      "FAQ_24"
+    ],
+    "ý": [
+      "BK_bk_36_1",
+      "BK_bk_38_1",
+      "BK_bk_12_1",
+      "BK_bk_39_1",
+      "FAQ_11"
+    ],
+    "nhà": [
+      "FAQ_11",
+      "BK_bk_47_1",
+      "FAQ_21"
+    ],
+    "chịu": [
+      "FAQ_11",
+      "FAQ_14",
+      "FAQ_23"
+    ],
+    "do": [
+      "FAQ_11",
+      "FAQ_14",
+      "FAQ_23",
+      "FAQ_21"
+    ],
+    "xuất": [
+      "FAQ_11",
+      "FAQ_22",
+      "FAQ_21"
+    ],
+    "thêm": [
+      "FAQ_12"
+    ],
+    "khác": [
+      "FAQ_13",
+      "BK_bk_10_1",
+      "BK_bk_3_1",
+      "BK_bk_8_1",
+      "FAQ_12",
+      "BK_bk_19_1"
+    ],
+    "cao": [
+      "FAQ_12"
+    ],
+    "giá": [
+      "BK_bk_36_1",
+      "FAQ_17",
+      "FAQ_12",
+      "BK_bk_43_1",
+      "FAQ_20"
+    ],
+    "cùng": [
+      "BK_bk_38_1",
+      "FAQ_12",
+      "FAQ_18"
+    ],
+    "hơn": [
+      "FAQ_12"
+    ],
+    "trị": [
+      "BK_bk_16_1",
+      "FAQ_12"
+    ],
+    "dẫn": [
+      "FAQ_13",
+      "BK_bk_7_1",
+      "FAQ_30",
+      "BK_bk_41_1"
+    ],
+    "hướng": [
+      "FAQ_13",
+      "FAQ_30",
+      "BK_bk_41_1"
+    ],
+    "thức": [
+      "FAQ_13",
+      "BK_bk_5_1"
+    ],
+    "theo": [
+      "BK_bk_44_1",
+      "FAQ_13",
+      "BK_bk_47_1"
+    ],
+    "phương": [
+      "FAQ_13",
+      "BK_bk_12_1",
+      "BK_bk_18_1"
+    ],
+    "phải": [
+      "BK_bk_38_1",
+      "FAQ_14"
+    ],
+    "quy": [
+      "FAQ_14"
+    ],
+    "không": [
+      "FAQ_14",
+      "FAQ_21",
+      "BK_bk_38_1",
+      "BK_bk_24_1",
+      "BK_bk_18_1",
+      "FAQ_24"
+    ],
+    "phẩm": [
+      "FAQ_14",
+      "BK_bk_10_1",
+      "BK_bk_36_1",
+      "BK_bk_12_1",
+      "BK_bk_25_1"
+    ],
+    "định": [
+      "FAQ_14",
+      "BK_bk_16_1",
+      "BK_bk_38_1",
+      "BK_bk_30_1",
+      "BK_bk_35_1",
+      "BK_bk_47_1",
+      "BK_bk_40_1"
+    ],
+    "lại": [
+      "BK_bk_31_1",
+      "BK_bk_9_1",
+      "BK_bk_36_1",
+      "BK_bk_26_1",
+      "BK_bk_29_1",
+      "BK_bk_49_1",
+      "FAQ_15"
+    ],
+    "để": [
+      "BK_bk_42_1",
+      "BK_bk_44_1",
+      "BK_bk_11_1",
+      "BK_bk_9_1",
+      "FAQ_23",
+      "BK_bk_26_1",
+      "FAQ_25",
+      "BK_bk_8_1",
+      "BK_bk_49_1",
+      "BK_bk_41_1",
+      "FAQ_15",
+      "FAQ_26",
+      "BK_bk_7_1",
+      "BK_bk_19_1"
+    ],
+    "ngay": [
+      "FAQ_15",
+      "BK_bk_32_1"
+    ],
+    "giải": [
+      "FAQ_15",
+      "BK_bk_25_1"
+    ],
+    "quyết": [
+      "FAQ_15",
+      "BK_bk_16_1",
+      "BK_bk_30_1"
+    ],
+    "vui": [
+      "FAQ_15"
+    ],
+    "lòng": [
+      "BK_bk_10_1",
+      "BK_bk_36_1",
+      "BK_bk_35_1",
+      "FAQ_15",
+      "BK_bk_32_1"
+    ],
+    "tử": [
+      "FAQ_16",
+      "BK_bk_32_1"
+    ],
+    "mastercard": [
+      "FAQ_16"
+    ],
+    "ngân": [
+      "FAQ_16"
+    ],
+    "ví": [
+      "FAQ_16"
+    ],
+    "thẻ": [
+      "FAQ_16"
+    ],
+    "visa": [
+      "FAQ_16"
+    ],
+    "vnpay": [
+      "FAQ_16"
+    ],
+    "momo": [
+      "FAQ_16"
+    ],
+    "điện": [
+      "FAQ_26",
+      "FAQ_16"
+    ],
+    "qua": [
+      "BK_bk_9_1",
+      "BK_bk_10_1",
+      "BK_bk_0_1",
+      "BK_bk_26_1",
+      "BK_bk_38_1",
+      "BK_bk_32_1",
+      "BK_bk_48_1",
+      "BK_bk_27_1",
+      "BK_bk_37_1",
+      "FAQ_16",
+      "BK_bk_34_1",
+      "FAQ_32"
+    ],
+    "zalopay": [
+      "FAQ_16"
+    ],
+    "đã": [
+      "FAQ_17",
+      "BK_bk_49_1",
+      "BK_bk_9_1"
+    ],
+    "vat": [
+      "FAQ_17"
+    ],
+    "website": [
+      "FAQ_17",
+      "FAQ_28",
+      "FAQ_31"
+    ],
+    "trên": [
+      "FAQ_17",
+      "FAQ_28",
+      "BK_bk_20_1",
+      "FAQ_31"
+    ],
+    "gồm": [
+      "FAQ_17"
+    ],
+    "bao": [
+      "FAQ_17",
+      "BK_bk_10_1"
+    ],
+    "lúc": [
+      "FAQ_18"
+    ],
+    "nhiều": [
+      "BK_bk_10_1",
+      "FAQ_18",
+      "BK_bk_34_1"
+    ],
+    "giỏ": [
+      "FAQ_18"
+    ],
+    "đăng": [
+      "FAQ_19",
+      "FAQ_27"
+    ],
+    "học": [
+      "FAQ_19",
+      "BK_bk_0_1",
+      "BK_bk_10_1",
+      "BK_bk_3_1",
+      "BK_bk_35_1",
+      "BK_bk_48_1",
+      "BK_bk_27_1",
+      "BK_bk_37_1"
+    ],
+    "viên": [
+      "FAQ_19",
+      "FAQ_28"
+    ],
+    "biệt": [
+      "FAQ_19",
+      "BK_bk_3_1",
+      "BK_bk_8_1"
+    ],
+    "khoản": [
+      "FAQ_19",
+      "FAQ_26",
+      "FAQ_25",
+      "FAQ_27"
+    ],
+    "email": [
+      "FAQ_19",
+      "FAQ_29",
+      "FAQ_28",
+      "FAQ_31",
+      "FAQ_26"
+    ],
+    "sẽ": [
+      "FAQ_19",
+      "FAQ_27"
+    ],
+    "ký": [
+      "FAQ_19",
+      "FAQ_27",
+      "BK_bk_9_1",
+      "BK_bk_18_1"
+    ],
+    "ưu": [
+      "FAQ_19"
+    ],
+    "đãi": [
+      "FAQ_19"
+    ],
+    "đặc": [
+      "FAQ_19"
+    ],
+    "sinh": [
+      "FAQ_19",
+      "BK_bk_20_1",
+      "BK_bk_10_1"
+    ],
+    "tài": [
+      "FAQ_19",
+      "BK_bk_11_1",
+      "FAQ_27",
+      "BK_bk_3_1",
+      "FAQ_25",
+      "FAQ_26"
+    ],
+    "voucher": [
+      "FAQ_27",
+      "FAQ_20"
+    ],
+    "ô": [
+      "FAQ_20"
+    ],
+    "nhập": [
+      "FAQ_20"
+    ],
+    "nhấn": [
+      "BK_bk_42_1",
+      "FAQ_20"
+    ],
+    "trang": [
+      "FAQ_20"
+    ],
+    "mã": [
+      "BK_bk_25_1",
+      "FAQ_20"
+    ],
+    "giảm": [
+      "FAQ_20"
+    ],
+    "vật": [
+      "BK_bk_31_1",
+      "BK_bk_10_1",
+      "FAQ_21"
+    ],
+    "nhưng": [
+      "BK_bk_10_1",
+      "FAQ_21",
+      "BK_bk_35_1",
+      "BK_bk_45_1",
+      "BK_bk_23_1",
+      "BK_bk_18_1",
+      "BK_bk_43_1"
+    ],
+    "chất": [
+      "FAQ_21"
+    ],
+    "bìa": [
+      "FAQ_21"
+    ],
+    "hành": [
+      "BK_bk_44_1",
+      "BK_bk_31_1",
+      "BK_bk_0_1",
+      "BK_bk_10_1",
+      "BK_bk_9_1",
+      "FAQ_21",
+      "BK_bk_16_1",
+      "BK_bk_36_1",
+      "BK_bk_29_1",
+      "BK_bk_49_1",
+      "BK_bk_18_1",
+      "BK_bk_23_1",
+      "BK_bk_27_1",
+      "BK_bk_37_1",
+      "BK_bk_46_1"
+    ],
+    "bảo": [
+      "FAQ_24",
+      "FAQ_21"
+    ],
+    "ấn": [
+      "BK_bk_19_1",
+      "FAQ_21"
+    ],
+    "đảm": [
+      "FAQ_21"
+    ],
+    "lý": [
+      "FAQ_21",
+      "BK_bk_17_1",
+      "BK_bk_13_1",
+      "BK_bk_14_1",
+      "BK_bk_40_1",
+      "BK_bk_22_1",
+      "BK_bk_46_1"
+    ],
+    "cửa": [
+      "FAQ_23"
+    ],
+    "thế": [
+      "BK_bk_31_1",
+      "BK_bk_9_1",
+      "FAQ_23",
+      "BK_bk_15_1",
+      "BK_bk_33_1",
+      "BK_bk_13_1",
+      "BK_bk_12_1",
+      "BK_bk_37_1",
+      "BK_bk_2_1",
+      "BK_bk_46_1",
+      "BK_bk_34_1"
+    ],
+    "mật": [
+      "BK_bk_25_1",
+      "FAQ_24"
+    ],
+    "sẻ": [
+      "FAQ_24"
+    ],
+    "kết": [
+      "FAQ_24",
+      "BK_bk_10_1"
+    ],
+    "chia": [
+      "FAQ_24"
+    ],
+    "cam": [
+      "FAQ_24"
+    ],
+    "tin": [
+      "BK_bk_44_1",
+      "FAQ_28",
+      "BK_bk_24_1",
+      "BK_bk_20_1",
+      "FAQ_26",
+      "FAQ_24"
+    ],
+    "bên": [
+      "FAQ_24"
+    ],
+    "thứ": [
+      "FAQ_24"
+    ],
+    "cầu": [
+      "FAQ_25"
+    ],
+    "xóa": [
+      "FAQ_25"
+    ],
+    "dữ": [
+      "FAQ_25"
+    ],
+    "liệu": [
+      "FAQ_25"
+    ],
+    "yêu": [
+      "BK_bk_9_1",
+      "FAQ_25",
+      "BK_bk_29_1",
+      "BK_bk_14_1",
+      "BK_bk_39_1",
+      "BK_bk_23_1",
+      "BK_bk_18_1",
+      "BK_bk_24_1",
+      "BK_bk_27_1",
+      "BK_bk_28_1",
+      "BK_bk_34_1"
+    ],
+    "cá": [
+      "BK_bk_11_1",
+      "BK_bk_36_1",
+      "FAQ_25",
+      "BK_bk_40_1",
+      "FAQ_26",
+      "BK_bk_7_1"
+    ],
+    "nhân": [
+      "BK_bk_11_1",
+      "BK_bk_10_1",
+      "BK_bk_17_1",
+      "FAQ_25",
+      "BK_bk_13_1",
+      "BK_bk_40_1",
+      "FAQ_26",
+      "BK_bk_7_1"
+    ],
+    "thoại": [
+      "FAQ_26"
+    ],
+    "của": [
+      "BK_bk_10_1",
+      "BK_bk_36_1",
+      "BK_bk_16_1",
+      "BK_bk_39_1",
+      "BK_bk_23_1",
+      "BK_bk_20_1",
+      "BK_bk_48_1",
+      "BK_bk_31_1",
+      "BK_bk_9_1",
+      "BK_bk_18_1",
+      "BK_bk_40_1",
+      "BK_bk_46_1",
+      "BK_bk_44_1",
+      "BK_bk_29_1",
+      "BK_bk_27_1",
+      "BK_bk_32_1",
+      "BK_bk_26_1",
+      "BK_bk_37_1",
+      "FAQ_26"
+    ],
+    "sửa": [
+      "FAQ_26"
+    ],
+    "tên": [
+      "FAQ_26",
+      "BK_bk_18_1"
+    ],
+    "phần": [
+      "FAQ_26"
+    ],
+    "chỉnh": [
+      "FAQ_26"
+    ],
+    "điểm": [
+      "FAQ_27"
+    ],
+    "lấy": [
+      "FAQ_27"
+    ],
+    "mỗi": [
+      "BK_bk_22_1",
+      "FAQ_27"
+    ],
+    "tích": [
+      "BK_bk_16_1",
+      "FAQ_27",
+      "BK_bk_46_1",
+      "BK_bk_41_1"
+    ],
+    "nhật": [
+      "FAQ_28"
+    ],
+    "cập": [
+      "FAQ_28"
+    ],
+    "mãi": [
+      "FAQ_28"
+    ],
+    "khuyến": [
+      "BK_bk_44_1",
+      "FAQ_28"
+    ],
+    "phản": [
+      "FAQ_29",
+      "BK_bk_49_1",
+      "FAQ_32"
+    ],
+    "trực": [
+      "FAQ_32",
+      "FAQ_29",
+      "BK_bk_30_1",
+      "FAQ_31"
+    ],
+    "vài": [
+      "FAQ_29"
+    ],
+    "phút": [
+      "FAQ_29"
+    ],
+    "24": [
+      "FAQ_29"
+    ],
+    "đối": [
+      "FAQ_29",
+      "BK_bk_17_1",
+      "BK_bk_6_1",
+      "BK_bk_39_1",
+      "BK_bk_40_1"
+    ],
+    "tiếp": [
+      "FAQ_29",
+      "BK_bk_8_1",
+      "FAQ_31",
+      "BK_bk_1_1",
+      "FAQ_32"
+    ],
+    "hồi": [
+      "FAQ_29",
+      "FAQ_32"
+    ],
+    "bình": [
+      "FAQ_29"
+    ],
+    "trung": [
+      "BK_bk_38_1",
+      "FAQ_29",
+      "BK_bk_49_1",
+      "BK_bk_48_1"
+    ],
+    "chat": [
+      "FAQ_32",
+      "FAQ_29",
+      "FAQ_31"
+    ],
+    "câu": [
+      "BK_bk_10_1",
+      "BK_bk_35_1",
+      "FAQ_30",
+      "BK_bk_47_1",
+      "BK_bk_14_1",
+      "BK_bk_45_1",
+      "BK_bk_49_1",
+      "BK_bk_18_1",
+      "BK_bk_20_1",
+      "BK_bk_23_1",
+      "BK_bk_27_1",
+      "BK_bk_37_1",
+      "BK_bk_32_1"
+    ],
+    "bản": [
+      "BK_bk_44_1",
+      "BK_bk_0_1",
+      "BK_bk_47_1",
+      "FAQ_30",
+      "BK_bk_29_1",
+      "BK_bk_41_1",
+      "BK_bk_22_1",
+      "BK_bk_19_1"
+    ],
+    "sẵn": [
+      "FAQ_30"
+    ],
+    "lời": [
+      "BK_bk_22_1",
+      "BK_bk_24_1",
+      "FAQ_30",
+      "BK_bk_9_1"
+    ],
+    "hỏi": [
+      "BK_bk_37_1",
+      "FAQ_30"
+    ],
+    "chatbot": [
+      "FAQ_30"
+    ],
+    "cơ": [
+      "BK_bk_45_1",
+      "FAQ_30",
+      "BK_bk_15_1"
+    ],
+    "luôn": [
+      "FAQ_30"
+    ],
+    "sàng": [
+      "FAQ_30"
+    ],
+    "gọi": [
+      "FAQ_31"
+    ],
+    "app": [
+      "FAQ_31"
+    ],
+    "hotline": [
+      "FAQ_31"
+    ],
+    "form": [
+      "FAQ_32"
+    ],
+    "kho": [
+      "BK_bk_0_1"
+    ],
+    "tìm": [
+      "BK_bk_31_1",
+      "BK_bk_0_1",
+      "BK_bk_26_1",
+      "BK_bk_29_1",
+      "BK_bk_45_1",
+      "BK_bk_46_1"
+    ],
+    "dị": [
+      "BK_bk_14_1",
+      "BK_bk_0_1"
+    ],
+    "phá": [
+      "BK_bk_0_1",
+      "BK_bk_47_1",
+      "BK_bk_43_1",
+      "BK_bk_37_1",
+      "BK_bk_2_1"
+    ],
+    "khám": [
+      "BK_bk_0_1",
+      "BK_bk_47_1",
+      "BK_bk_43_1",
+      "BK_bk_37_1",
+      "BK_bk_2_1"
+    ],
+    "những": [
+      "BK_bk_44_1",
+      "BK_bk_43_1",
+      "BK_bk_21_1",
+      "BK_bk_0_1",
+      "BK_bk_9_1",
+      "BK_bk_4_1",
+      "BK_bk_18_1",
+      "BK_bk_27_1",
+      "BK_bk_37_1",
+      "BK_bk_46_1",
+      "BK_bk_32_1"
+    ],
+    "bài": [
+      "BK_bk_3_1",
+      "BK_bk_35_1",
+      "BK_bk_0_1",
+      "BK_bk_10_1"
+    ],
+    "giản": [
+      "BK_bk_14_1",
+      "BK_bk_0_1",
+      "BK_bk_45_1"
+    ],
+    "báu": [
+      "BK_bk_0_1"
+    ],
+    "sống": [
+      "BK_bk_43_1",
+      "BK_bk_0_1",
+      "BK_bk_38_1",
+      "BK_bk_4_1",
+      "BK_bk_12_1",
+      "BK_bk_39_1",
+      "BK_bk_41_1",
+      "BK_bk_22_1"
+    ],
+    "thân": [
+      "BK_bk_44_1",
+      "BK_bk_0_1",
+      "BK_bk_4_1",
+      "BK_bk_41_1",
+      "BK_bk_22_1"
+    ],
+    "thuật": [
+      "BK_bk_1_1",
+      "BK_bk_2_1",
+      "BK_bk_25_1"
+    ],
+    "dựng": [
+      "BK_bk_1_1",
+      "BK_bk_41_1"
+    ],
+    "nghệ": [
+      "BK_bk_1_1",
+      "BK_bk_25_1"
+    ],
+    "mối": [
+      "BK_bk_1_1",
+      "BK_bk_8_1"
+    ],
+    "hưởng": [
+      "BK_bk_16_1",
+      "BK_bk_1_1",
+      "BK_bk_30_1",
+      "BK_bk_19_1"
+    ],
+    "giúp": [
+      "BK_bk_42_1",
+      "BK_bk_1_1",
+      "BK_bk_10_1",
+      "BK_bk_38_1"
+    ],
+    "quan": [
+      "BK_bk_1_1",
+      "BK_bk_8_1"
+    ],
+    "vững": [
+      "BK_bk_42_1",
+      "BK_bk_1_1"
+    ],
+    "công": [
+      "BK_bk_42_1",
+      "BK_bk_44_1",
+      "BK_bk_13_1",
+      "BK_bk_1_1",
+      "BK_bk_32_1"
+    ],
+    "ảnh": [
+      "BK_bk_16_1",
+      "BK_bk_30_1",
+      "BK_bk_49_1",
+      "BK_bk_1_1",
+      "BK_bk_19_1",
+      "BK_bk_34_1"
+    ],
+    "xây": [
+      "BK_bk_1_1",
+      "BK_bk_41_1"
+    ],
+    "bền": [
+      "BK_bk_42_1",
+      "BK_bk_1_1"
+    ],
+    "giới": [
+      "BK_bk_31_1",
+      "BK_bk_9_1",
+      "BK_bk_33_1",
+      "BK_bk_8_1",
+      "BK_bk_37_1",
+      "BK_bk_2_1",
+      "BK_bk_46_1"
+    ],
+    "bắt": [
+      "BK_bk_2_1",
+      "BK_bk_10_1"
+    ],
+    "phù": [
+      "BK_bk_2_1"
+    ],
+    "đầu": [
+      "BK_bk_10_1",
+      "BK_bk_3_1",
+      "BK_bk_17_1",
+      "BK_bk_29_1",
+      "BK_bk_2_1"
+    ],
+    "phép": [
+      "BK_bk_2_1",
+      "BK_bk_28_1"
+    ],
+    "hogwarts": [
+      "BK_bk_2_1"
+    ],
+    "cuộc": [
+      "BK_bk_17_1",
+      "BK_bk_6_1",
+      "BK_bk_12_1",
+      "BK_bk_39_1",
+      "BK_bk_40_1",
+      "BK_bk_48_1",
+      "BK_bk_43_1",
+      "BK_bk_25_1",
+      "BK_bk_2_1",
+      "BK_bk_46_1"
+    ],
+    "phiêu": [
+      "BK_bk_20_1",
+      "BK_bk_2_1",
+      "BK_bk_10_1"
+    ],
+    "bé": [
+      "BK_bk_26_1",
+      "BK_bk_47_1",
+      "BK_bk_49_1",
+      "BK_bk_23_1",
+      "BK_bk_20_1",
+      "BK_bk_37_1",
+      "BK_bk_2_1"
+    ],
+    "lưu": [
+      "BK_bk_20_1",
+      "BK_bk_2_1",
+      "BK_bk_10_1"
+    ],
+    "thủy": [
+      "BK_bk_2_1"
+    ],
+    "cậu": [
+      "BK_bk_10_1",
+      "BK_bk_47_1",
+      "BK_bk_49_1",
+      "BK_bk_23_1",
+      "BK_bk_20_1",
+      "BK_bk_2_1"
+    ],
+    "chính": [
+      "BK_bk_16_1",
+      "BK_bk_3_1",
+      "BK_bk_11_1"
+    ],
+    "tiêu": [
+      "BK_bk_44_1",
+      "BK_bk_3_1"
+    ],
+    "duy": [
+      "BK_bk_44_1",
+      "BK_bk_11_1",
+      "BK_bk_3_1",
+      "BK_bk_30_1",
+      "BK_bk_41_1"
+    ],
+    "giữa": [
+      "BK_bk_3_1",
+      "BK_bk_33_1",
+      "BK_bk_29_1",
+      "BK_bk_34_1"
+    ],
+    "tư": [
+      "BK_bk_44_1",
+      "BK_bk_11_1",
+      "BK_bk_9_1",
+      "BK_bk_3_1",
+      "BK_bk_30_1",
+      "BK_bk_41_1",
+      "BK_bk_37_1"
+    ],
+    "tây": [
+      "BK_bk_4_1"
+    ],
+    "lát": [
+      "BK_bk_4_1"
+    ],
+    "cảm": [
+      "BK_bk_10_1",
+      "BK_bk_4_1",
+      "BK_bk_29_1",
+      "BK_bk_8_1",
+      "BK_bk_39_1",
+      "BK_bk_23_1",
+      "BK_bk_32_1"
+    ],
+    "sâu": [
+      "BK_bk_45_1",
+      "BK_bk_4_1",
+      "BK_bk_33_1"
+    ],
+    "lắng": [
+      "BK_bk_4_1"
+    ],
+    "cắt": [
+      "BK_bk_4_1"
+    ],
+    "xúc": [
+      "BK_bk_4_1",
+      "BK_bk_49_1",
+      "BK_bk_29_1"
+    ],
+    "con": [
+      "BK_bk_42_1",
+      "BK_bk_36_1",
+      "BK_bk_38_1",
+      "BK_bk_4_1",
+      "BK_bk_5_1",
+      "BK_bk_20_1",
+      "BK_bk_43_1",
+      "BK_bk_37_1"
+    ],
+    "miền": [
+      "BK_bk_4_1",
+      "BK_bk_18_1"
+    ],
+    "người": [
+      "BK_bk_44_1",
+      "BK_bk_9_1",
+      "BK_bk_36_1",
+      "BK_bk_38_1",
+      "BK_bk_4_1",
+      "BK_bk_49_1",
+      "BK_bk_5_1",
+      "BK_bk_43_1",
+      "BK_bk_37_1",
+      "BK_bk_46_1",
+      "BK_bk_19_1"
+    ],
+    "đời": [
+      "BK_bk_9_1",
+      "BK_bk_10_1",
+      "BK_bk_4_1",
+      "BK_bk_6_1",
+      "BK_bk_29_1",
+      "BK_bk_40_1"
+    ],
+    "lược": [
+      "BK_bk_5_1"
+    ],
+    "bắn": [
+      "BK_bk_5_1"
+    ],
+    "săn": [
+      "BK_bk_5_1"
+    ],
+    "tới": [
+      "BK_bk_30_1",
+      "BK_bk_7_1",
+      "BK_bk_5_1"
+    ],
+    "hội": [
+      "BK_bk_45_1",
+      "BK_bk_35_1",
+      "BK_bk_5_1",
+      "BK_bk_15_1"
+    ],
+    "hái": [
+      "BK_bk_5_1"
+    ],
+    "lượm": [
+      "BK_bk_5_1"
+    ],
+    "xã": [
+      "BK_bk_26_1",
+      "BK_bk_35_1",
+      "BK_bk_5_1"
+    ],
+    "hiện": [
+      "BK_bk_5_1",
+      "BK_bk_9_1"
+    ],
+    "đại": [
+      "BK_bk_27_1",
+      "BK_bk_5_1"
+    ],
+    "tri": [
+      "BK_bk_5_1"
+    ],
+    "chết": [
+      "BK_bk_26_1",
+      "BK_bk_6_1"
+    ],
+    "cái": [
+      "BK_bk_26_1",
+      "BK_bk_6_1"
+    ],
+    "thư": [
+      "BK_bk_37_1",
+      "BK_bk_6_1",
+      "BK_bk_29_1"
+    ],
+    "diện": [
+      "BK_bk_6_1"
+    ],
+    "bác": [
+      "BK_bk_6_1"
+    ],
+    "nhìn": [
+      "BK_bk_9_1",
+      "BK_bk_21_1",
+      "BK_bk_26_1",
+      "BK_bk_6_1",
+      "BK_bk_32_1"
+    ],
+    "viết": [
+      "BK_bk_6_1"
+    ],
+    "sĩ": [
+      "BK_bk_48_1",
+      "BK_bk_6_1"
+    ],
+    "ung": [
+      "BK_bk_6_1"
+    ],
+    "nghiệp": [
+      "BK_bk_42_1",
+      "BK_bk_12_1",
+      "BK_bk_7_1"
+    ],
+    "phát": [
+      "BK_bk_22_1",
+      "BK_bk_7_1",
+      "BK_bk_41_1"
+    ],
+    "khung": [
+      "BK_bk_7_1"
+    ],
+    "hiệu": [
+      "BK_bk_7_1",
+      "BK_bk_21_1",
+      "BK_bk_19_1",
+      "BK_bk_41_1"
+    ],
+    "nghề": [
+      "BK_bk_7_1"
+    ],
+    "thói": [
+      "BK_bk_7_1"
+    ],
+    "quen": [
+      "BK_bk_7_1"
+    ],
+    "quả": [
+      "BK_bk_7_1",
+      "BK_bk_21_1",
+      "BK_bk_19_1",
+      "BK_bk_41_1"
+    ],
+    "triển": [
+      "BK_bk_22_1",
+      "BK_bk_7_1",
+      "BK_bk_41_1"
+    ],
+    "cải": [
+      "BK_bk_8_1"
+    ],
+    "hiểu": [
+      "BK_bk_43_1",
+      "BK_bk_10_1",
+      "BK_bk_8_1"
+    ],
+    "thiện": [
+      "BK_bk_8_1"
+    ],
+    "tình": [
+      "BK_bk_10_1",
+      "BK_bk_29_1",
+      "BK_bk_8_1",
+      "BK_bk_14_1",
+      "BK_bk_39_1",
+      "BK_bk_23_1",
+      "BK_bk_18_1",
+      "BK_bk_24_1",
+      "BK_bk_49_1",
+      "BK_bk_27_1",
+      "BK_bk_28_1",
+      "BK_bk_34_1"
+    ],
+    "tính": [
+      "BK_bk_17_1",
+      "BK_bk_10_1",
+      "BK_bk_8_1"
+    ],
+    "tái": [
+      "BK_bk_9_1"
+    ],
+    "mùi": [
+      "BK_bk_9_1"
+    ],
+    "mình": [
+      "BK_bk_9_1",
+      "BK_bk_10_1",
+      "BK_bk_40_1"
+    ],
+    "nhắn": [
+      "BK_bk_9_1"
+    ],
+    "tấm": [
+      "BK_bk_9_1"
+    ],
+    "xưa": [
+      "BK_bk_9_1"
+    ],
+    "cò": [
+      "BK_bk_9_1"
+    ],
+    "đôi": [
+      "BK_bk_9_1"
+    ],
+    "cuốn": [
+      "BK_bk_9_1",
+      "BK_bk_41_1"
+    ],
+    "đứa": [
+      "BK_bk_9_1"
+    ],
+    "trẻ": [
+      "BK_bk_9_1",
+      "BK_bk_10_1",
+      "BK_bk_29_1",
+      "BK_bk_18_1",
+      "BK_bk_27_1",
+      "BK_bk_32_1"
+    ],
+    "lớn": [
+      "BK_bk_37_1",
+      "BK_bk_9_1",
+      "BK_bk_44_1"
+    ],
+    "trở": [
+      "BK_bk_9_1"
+    ],
+    "trẻo": [
+      "BK_bk_18_1",
+      "BK_bk_9_1"
+    ],
+    "sự": [
+      "BK_bk_31_1",
+      "BK_bk_9_1",
+      "BK_bk_10_1",
+      "BK_bk_33_1",
+      "BK_bk_35_1",
+      "BK_bk_14_1",
+      "BK_bk_12_1",
+      "BK_bk_39_1",
+      "BK_bk_18_1",
+      "BK_bk_23_1",
+      "BK_bk_40_1",
+      "BK_bk_41_1",
+      "BK_bk_43_1",
+      "BK_bk_49_1",
+      "BK_bk_32_1",
+      "BK_bk_34_1"
+    ],
+    "siêu": [
+      "BK_bk_46_1",
+      "BK_bk_9_1",
+      "BK_bk_47_1"
+    ],
+    "tí": [
+      "BK_bk_9_1"
+    ],
+    "đầy": [
+      "BK_bk_9_1",
+      "BK_bk_10_1",
+      "BK_bk_29_1",
+      "BK_bk_49_1",
+      "BK_bk_23_1",
+      "BK_bk_18_1",
+      "BK_bk_34_1"
+    ],
+    "nhiên": [
+      "BK_bk_43_1",
+      "BK_bk_9_1"
+    ],
+    "quậy": [
+      "BK_bk_9_1"
+    ],
+    "tủn": [
+      "BK_bk_9_1"
+    ],
+    "mộng": [
+      "BK_bk_9_1"
+    ],
+    "rằng": [
+      "BK_bk_38_1",
+      "BK_bk_9_1"
+    ],
+    "nhẹ": [
+      "BK_bk_9_1"
+    ],
+    "cần": [
+      "BK_bk_9_1"
+    ],
+    "bốn": [
+      "BK_bk_9_1"
+    ],
+    "là": [
+      "BK_bk_18_1",
+      "BK_bk_49_1",
+      "BK_bk_9_1",
+      "BK_bk_10_1"
+    ],
+    "tâm": [
+      "BK_bk_17_1",
+      "BK_bk_46_1",
+      "BK_bk_9_1"
+    ],
+    "thơ": [
+      "BK_bk_9_1",
+      "BK_bk_29_1",
+      "BK_bk_32_1"
+    ],
+    "mò": [
+      "BK_bk_9_1"
+    ],
+    "đây": [
+      "BK_bk_18_1",
+      "BK_bk_49_1",
+      "BK_bk_9_1",
+      "BK_bk_10_1"
+    ],
+    "nhàng": [
+      "BK_bk_9_1"
+    ],
+    "hồn": [
+      "BK_bk_9_1"
+    ],
+    "sáng": [
+      "BK_bk_9_1",
+      "BK_bk_40_1"
+    ],
+    "ta": [
+      "BK_bk_9_1"
+    ],
+    "mơ": [
+      "BK_bk_9_1"
+    ],
+    "nhắc": [
+      "BK_bk_22_1",
+      "BK_bk_9_1"
+    ],
+    "vé": [
+      "BK_bk_9_1"
+    ],
+    "vô": [
+      "BK_bk_9_1"
+    ],
+    "đồng": [
+      "BK_bk_9_1",
+      "BK_bk_32_1"
+    ],
+    "nhớ": [
+      "BK_bk_9_1"
+    ],
+    "tinh": [
+      "BK_bk_9_1",
+      "BK_bk_10_1"
+    ],
+    "tò": [
+      "BK_bk_9_1"
+    ],
+    "ức": [
+      "BK_bk_18_1",
+      "BK_bk_47_1",
+      "BK_bk_9_1"
+    ],
+    "từng": [
+      "BK_bk_9_1"
+    ],
+    "cu": [
+      "BK_bk_9_1"
+    ],
+    "góc": [
+      "BK_bk_26_1",
+      "BK_bk_9_1",
+      "BK_bk_21_1",
+      "BK_bk_32_1"
+    ],
+    "nghịch": [
+      "BK_bk_9_1"
+    ],
+    "hải": [
+      "BK_bk_24_1",
+      "BK_bk_9_1"
+    ],
+    "dũng": [
+      "BK_bk_32_1",
+      "BK_bk_10_1"
+    ],
+    "nhiệm": [
+      "BK_bk_24_1",
+      "BK_bk_10_1"
+    ],
+    "giàu": [
+      "BK_bk_14_1",
+      "BK_bk_23_1",
+      "BK_bk_10_1"
+    ],
+    "dế": [
+      "BK_bk_10_1"
+    ],
+    "văn": [
+      "BK_bk_13_1",
+      "BK_bk_10_1"
+    ],
+    "ngạo": [
+      "BK_bk_10_1"
+    ],
+    "chuyện": [
+      "BK_bk_10_1",
+      "BK_bk_35_1",
+      "BK_bk_47_1",
+      "BK_bk_14_1",
+      "BK_bk_45_1",
+      "BK_bk_39_1",
+      "BK_bk_23_1",
+      "BK_bk_20_1",
+      "BK_bk_18_1",
+      "BK_bk_49_1",
+      "BK_bk_27_1",
+      "BK_bk_32_1"
+    ],
+    "sau": [
+      "BK_bk_10_1"
+    ],
+    "chuyến": [
+      "BK_bk_20_1",
+      "BK_bk_10_1"
+    ],
+    "mảnh": [
+      "BK_bk_10_1"
+    ],
+    "nhau": [
+      "BK_bk_10_1"
+    ],
+    "mèn": [
+      "BK_bk_10_1"
+    ],
+    "khí": [
+      "BK_bk_10_1"
+    ],
+    "đủ": [
+      "BK_bk_10_1"
+    ],
+    "tượng": [
+      "BK_bk_10_1",
+      "BK_bk_36_1",
+      "BK_bk_23_1",
+      "BK_bk_40_1",
+      "BK_bk_19_1"
+    ],
+    "trách": [
+      "BK_bk_24_1",
+      "BK_bk_10_1"
+    ],
+    "chàng": [
+      "BK_bk_29_1",
+      "BK_bk_18_1",
+      "BK_bk_10_1"
+    ],
+    "sắc": [
+      "BK_bk_10_1",
+      "BK_bk_33_1",
+      "BK_bk_35_1",
+      "BK_bk_45_1",
+      "BK_bk_48_1"
+    ],
+    "kiêu": [
+      "BK_bk_10_1",
+      "BK_bk_36_1"
+    ],
+    "ấy": [
+      "BK_bk_18_1",
+      "BK_bk_10_1"
+    ],
+    "tưởng": [
+      "BK_bk_10_1",
+      "BK_bk_24_1",
+      "BK_bk_23_1",
+      "BK_bk_40_1",
+      "BK_bk_37_1"
+    ],
+    "bột": [
+      "BK_bk_10_1"
+    ],
+    "cay": [
+      "BK_bk_10_1"
+    ],
+    "kiến": [
+      "BK_bk_35_1",
+      "BK_bk_10_1",
+      "BK_bk_40_1"
+    ],
+    "trưởng": [
+      "BK_bk_10_1",
+      "BK_bk_35_1",
+      "BK_bk_14_1",
+      "BK_bk_49_1",
+      "BK_bk_23_1",
+      "BK_bk_18_1",
+      "BK_bk_27_1"
+    ],
+    "bồng": [
+      "BK_bk_10_1"
+    ],
+    "đắng": [
+      "BK_bk_10_1"
+    ],
+    "tác": [
+      "BK_bk_43_1",
+      "BK_bk_25_1",
+      "BK_bk_10_1"
+    ],
+    "gặp": [
+      "BK_bk_43_1",
+      "BK_bk_10_1"
+    ],
+    "đất": [
+      "BK_bk_10_1"
+    ],
+    "vì": [
+      "BK_bk_49_1",
+      "BK_bk_10_1"
+    ],
+    "vùng": [
+      "BK_bk_10_1"
+    ],
+    "gỡ": [
+      "BK_bk_10_1"
+    ],
+    "đoàn": [
+      "BK_bk_10_1"
+    ],
+    "màu": [
+      "BK_bk_28_1",
+      "BK_bk_10_1"
+    ],
+    "chứng": [
+      "BK_bk_10_1"
+    ],
+    "thần": [
+      "BK_bk_26_1",
+      "BK_bk_10_1"
+    ],
+    "nghĩa": [
+      "BK_bk_10_1",
+      "BK_bk_26_1",
+      "BK_bk_38_1",
+      "BK_bk_12_1",
+      "BK_bk_39_1",
+      "BK_bk_40_1"
+    ],
+    "trí": [
+      "BK_bk_23_1",
+      "BK_bk_10_1"
+    ],
+    "bạc": [
+      "BK_bk_11_1"
+    ],
+    "mệnh": [
+      "BK_bk_11_1",
+      "BK_bk_47_1"
+    ],
+    "kế": [
+      "BK_bk_12_1"
+    ],
+    "nào": [
+      "BK_bk_12_1",
+      "BK_bk_15_1"
+    ],
+    "pháp": [
+      "BK_bk_13_1",
+      "BK_bk_12_1"
+    ],
+    "thiết": [
+      "BK_bk_12_1",
+      "BK_bk_41_1"
+    ],
+    "thuyết": [
+      "BK_bk_13_1",
+      "BK_bk_17_1"
+    ],
+    "lịch": [
+      "BK_bk_13_1",
+      "BK_bk_25_1",
+      "BK_bk_28_1",
+      "BK_bk_37_1"
+    ],
+    "xix": [
+      "BK_bk_13_1"
+    ],
+    "tiểu": [
+      "BK_bk_13_1",
+      "BK_bk_17_1"
+    ],
+    "thiên": [
+      "BK_bk_13_1"
+    ],
+    "kỷ": [
+      "BK_bk_13_1",
+      "BK_bk_42_1",
+      "BK_bk_41_1"
+    ],
+    "nỗi": [
+      "BK_bk_31_1",
+      "BK_bk_13_1",
+      "BK_bk_49_1",
+      "BK_bk_23_1",
+      "BK_bk_18_1"
+    ],
+    "đau": [
+      "BK_bk_38_1",
+      "BK_bk_29_1",
+      "BK_bk_13_1",
+      "BK_bk_49_1",
+      "BK_bk_23_1"
+    ],
+    "triết": [
+      "BK_bk_14_1",
+      "BK_bk_37_1",
+      "BK_bk_48_1"
+    ],
+    "tăng": [
+      "BK_bk_15_1"
+    ],
+    "nghiên": [
+      "BK_bk_42_1",
+      "BK_bk_15_1"
+    ],
+    "may": [
+      "BK_bk_15_1"
+    ],
+    "mắn": [
+      "BK_bk_15_1"
+    ],
+    "lành": [
+      "BK_bk_15_1"
+    ],
+    "tốt": [
+      "BK_bk_19_1",
+      "BK_bk_15_1"
+    ],
+    "cứu": [
+      "BK_bk_42_1",
+      "BK_bk_49_1",
+      "BK_bk_15_1"
+    ],
+    "động": [
+      "BK_bk_44_1",
+      "BK_bk_15_1",
+      "BK_bk_45_1",
+      "BK_bk_39_1",
+      "BK_bk_23_1",
+      "BK_bk_49_1",
+      "BK_bk_43_1"
+    ],
+    "hoạt": [
+      "BK_bk_15_1"
+    ],
+    "phân": [
+      "BK_bk_16_1"
+    ],
+    "đám": [
+      "BK_bk_16_1"
+    ],
+    "tập": [
+      "BK_bk_16_1",
+      "BK_bk_38_1"
+    ],
+    "đông": [
+      "BK_bk_16_1"
+    ],
+    "đến": [
+      "BK_bk_16_1"
+    ],
+    "vi": [
+      "BK_bk_16_1"
+    ],
+    "kịch": [
+      "BK_bk_17_1",
+      "BK_bk_28_1",
+      "BK_bk_34_1"
+    ],
+    "rùng": [
+      "BK_bk_17_1"
+    ],
+    "sát": [
+      "BK_bk_17_1"
+    ],
+    "rợn": [
+      "BK_bk_17_1"
+    ],
+    "trinh": [
+      "BK_bk_17_1"
+    ],
+    "kẻ": [
+      "BK_bk_17_1"
+    ],
+    "thám": [
+      "BK_bk_17_1"
+    ],
+    "tháng": [
+      "BK_bk_18_1"
+    ],
+    "buồn": [
+      "BK_bk_27_1",
+      "BK_bk_18_1"
+    ],
+    "dịu": [
+      "BK_bk_18_1"
+    ],
+    "suốt": [
+      "BK_bk_18_1"
+    ],
+    "dàng": [
+      "BK_bk_18_1"
+    ],
+    "hà": [
+      "BK_bk_18_1"
+    ],
+    "thuở": [
+      "BK_bk_18_1"
+    ],
+    "nhỏ": [
+      "BK_bk_18_1"
+    ],
+    "năm": [
+      "BK_bk_27_1",
+      "BK_bk_18_1"
+    ],
+    "tuổi": [
+      "BK_bk_27_1",
+      "BK_bk_18_1",
+      "BK_bk_29_1"
+    ],
+    "đẹp": [
+      "BK_bk_24_1",
+      "BK_bk_18_1"
+    ],
+    "dứt": [
+      "BK_bk_18_1"
+    ],
+    "cả": [
+      "BK_bk_18_1"
+    ],
+    "thầm": [
+      "BK_bk_18_1"
+    ],
+    "trai": [
+      "BK_bk_18_1",
+      "BK_bk_29_1"
+    ],
+    "quê": [
+      "BK_bk_49_1",
+      "BK_bk_18_1"
+    ],
+    "tiếc": [
+      "BK_bk_18_1"
+    ],
+    "nắm": [
+      "BK_bk_18_1"
+    ],
+    "chân": [
+      "BK_bk_18_1"
+    ],
+    "nuối": [
+      "BK_bk_18_1"
+    ],
+    "xen": [
+      "BK_bk_23_1",
+      "BK_bk_46_1",
+      "BK_bk_18_1",
+      "BK_bk_48_1"
+    ],
+    "điều": [
+      "BK_bk_24_1",
+      "BK_bk_18_1",
+      "BK_bk_48_1"
+    ],
+    "khát": [
+      "BK_bk_31_1",
+      "BK_bk_49_1",
+      "BK_bk_18_1"
+    ],
+    "dành": [
+      "BK_bk_18_1"
+    ],
+    "cô": [
+      "BK_bk_26_1",
+      "BK_bk_37_1",
+      "BK_bk_31_1",
+      "BK_bk_18_1"
+    ],
+    "lẫn": [
+      "BK_bk_23_1",
+      "BK_bk_18_1"
+    ],
+    "khao": [
+      "BK_bk_31_1",
+      "BK_bk_18_1"
+    ],
+    "giữ": [
+      "BK_bk_18_1"
+    ],
+    "kéo": [
+      "BK_bk_18_1",
+      "BK_bk_34_1"
+    ],
+    "lan": [
+      "BK_bk_18_1"
+    ],
+    "dài": [
+      "BK_bk_18_1",
+      "BK_bk_34_1"
+    ],
+    "day": [
+      "BK_bk_18_1"
+    ],
+    "ngạn": [
+      "BK_bk_18_1"
+    ],
+    "vẻ": [
+      "BK_bk_18_1"
+    ],
+    "tắc": [
+      "BK_bk_21_1",
+      "BK_bk_19_1"
+    ],
+    "tạo": [
+      "BK_bk_44_1",
+      "BK_bk_31_1",
+      "BK_bk_40_1",
+      "BK_bk_43_1",
+      "BK_bk_19_1"
+    ],
+    "căn": [
+      "BK_bk_19_1"
+    ],
+    "tồn": [
+      "BK_bk_20_1"
+    ],
+    "biển": [
+      "BK_bk_20_1"
+    ],
+    "hổ": [
+      "BK_bk_20_1"
+    ],
+    "đức": [
+      "BK_bk_26_1",
+      "BK_bk_20_1"
+    ],
+    "chuyên": [
+      "BK_bk_21_1"
+    ],
+    "bán": [
+      "BK_bk_21_1"
+    ],
+    "quảng": [
+      "BK_bk_21_1"
+    ],
+    "cáo": [
+      "BK_bk_21_1"
+    ],
+    "quản": [
+      "BK_bk_22_1"
+    ],
+    "trọn": [
+      "BK_bk_22_1"
+    ],
+    "thương": [
+      "BK_bk_24_1",
+      "BK_bk_23_1",
+      "BK_bk_29_1"
+    ],
+    "ấm": [
+      "BK_bk_23_1"
+    ],
+    "nghèo": [
+      "BK_bk_39_1",
+      "BK_bk_23_1"
+    ],
+    "zezé": [
+      "BK_bk_23_1"
+    ],
+    "niềm": [
+      "BK_bk_24_1"
+    ],
+    "âu": [
+      "BK_bk_24_1"
+    ],
+    "dạy": [
+      "BK_bk_24_1"
+    ],
+    "mồ": [
+      "BK_bk_24_1"
+    ],
+    "mang": [
+      "BK_bk_49_1",
+      "BK_bk_24_1"
+    ],
+    "chừng": [
+      "BK_bk_24_1"
+    ],
+    "hứa": [
+      "BK_bk_24_1"
+    ],
+    "điệp": [
+      "BK_bk_24_1"
+    ],
+    "bay": [
+      "BK_bk_24_1"
+    ],
+    "biết": [
+      "BK_bk_24_1"
+    ],
+    "côi": [
+      "BK_bk_24_1"
+    ],
+    "chú": [
+      "BK_bk_24_1"
+    ],
+    "mèo": [
+      "BK_bk_47_1",
+      "BK_bk_24_1"
+    ],
+    "tôn": [
+      "BK_bk_25_1",
+      "BK_bk_48_1"
+    ],
+    "đua": [
+      "BK_bk_25_1",
+      "BK_bk_49_1"
+    ],
+    "ẩn": [
+      "BK_bk_25_1",
+      "BK_bk_46_1",
+      "BK_bk_48_1",
+      "BK_bk_37_1"
+    ],
+    "giáo": [
+      "BK_bk_25_1",
+      "BK_bk_48_1"
+    ],
+    "bí": [
+      "BK_bk_25_1",
+      "BK_bk_46_1",
+      "BK_bk_48_1",
+      "BK_bk_37_1"
+    ],
+    "mát": [
+      "BK_bk_26_1",
+      "BK_bk_39_1",
+      "BK_bk_27_1"
+    ],
+    "thấy": [
+      "BK_bk_26_1"
+    ],
+    "tranh": [
+      "BK_bk_26_1",
+      "BK_bk_33_1",
+      "BK_bk_46_1"
+    ],
+    "sức": [
+      "BK_bk_26_1",
+      "BK_bk_32_1"
+    ],
+    "chữ": [
+      "BK_bk_26_1"
+    ],
+    "ác": [
+      "BK_bk_26_1",
+      "BK_bk_48_1"
+    ],
+    "mất": [
+      "BK_bk_26_1",
+      "BK_bk_39_1",
+      "BK_bk_46_1",
+      "BK_bk_27_1"
+    ],
+    "bối": [
+      "BK_bk_26_1"
+    ],
+    "mạnh": [
+      "BK_bk_26_1",
+      "BK_bk_42_1",
+      "BK_bk_32_1"
+    ],
+    "liesel": [
+      "BK_bk_26_1"
+    ],
+    "cảnh": [
+      "BK_bk_26_1",
+      "BK_bk_38_1"
+    ],
+    "chiến": [
+      "BK_bk_26_1",
+      "BK_bk_46_1"
+    ],
+    "chống": [
+      "BK_bk_26_1",
+      "BK_bk_36_1"
+    ],
+    "watanabe": [
+      "BK_bk_27_1"
+    ],
+    "trầm": [
+      "BK_bk_27_1"
+    ],
+    "toru": [
+      "BK_bk_27_1",
+      "BK_bk_46_1"
+    ],
+    "biên": [
+      "BK_bk_28_1"
+    ],
+    "nơi": [
+      "BK_bk_48_1",
+      "BK_bk_28_1",
+      "BK_bk_34_1"
+    ],
+    "dòng": [
+      "BK_bk_33_1",
+      "BK_bk_28_1"
+    ],
+    "cài": [
+      "BK_bk_28_1"
+    ],
+    "kỳ": [
+      "BK_bk_46_1",
+      "BK_bk_28_1"
+    ],
+    "lặp": [
+      "BK_bk_28_1"
+    ],
+    "buendía": [
+      "BK_bk_28_1"
+    ],
+    "họ": [
+      "BK_bk_33_1",
+      "BK_bk_28_1"
+    ],
+    "macondo": [
+      "BK_bk_28_1"
+    ],
+    "làng": [
+      "BK_bk_28_1"
+    ],
+    "đan": [
+      "BK_bk_48_1",
+      "BK_bk_46_1",
+      "BK_bk_28_1"
+    ],
+    "ảo": [
+      "BK_bk_46_1",
+      "BK_bk_28_1"
+    ],
+    "bi": [
+      "BK_bk_28_1",
+      "BK_bk_34_1"
+    ],
+    "niên": [
+      "BK_bk_31_1",
+      "BK_bk_39_1",
+      "BK_bk_28_1",
+      "BK_bk_41_1"
+    ],
+    "ngôi": [
+      "BK_bk_28_1"
+    ],
+    "hy": [
+      "BK_bk_29_1"
+    ],
+    "dạng": [
+      "BK_bk_29_1"
+    ],
+    "mẹ": [
+      "BK_bk_29_1"
+    ],
+    "vọng": [
+      "BK_bk_49_1",
+      "BK_bk_29_1"
+    ],
+    "di": [
+      "BK_bk_29_1"
+    ],
+    "dân": [
+      "BK_bk_29_1"
+    ],
+    "kiếm": [
+      "BK_bk_45_1",
+      "BK_bk_46_1",
+      "BK_bk_29_1",
+      "BK_bk_36_1"
+    ],
+    "lá": [
+      "BK_bk_37_1",
+      "BK_bk_29_1"
+    ],
+    "chậm": [
+      "BK_bk_30_1"
+    ],
+    "suy": [
+      "BK_bk_30_1"
+    ],
+    "giác": [
+      "BK_bk_30_1"
+    ],
+    "luận": [
+      "BK_bk_30_1"
+    ],
+    "hai": [
+      "BK_bk_39_1",
+      "BK_bk_30_1",
+      "BK_bk_47_1"
+    ],
+    "thuần": [
+      "BK_bk_31_1"
+    ],
+    "hoài": [
+      "BK_bk_31_1"
+    ],
+    "nổi": [
+      "BK_bk_31_1"
+    ],
+    "khiết": [
+      "BK_bk_31_1"
+    ],
+    "holden": [
+      "BK_bk_31_1"
+    ],
+    "nghi": [
+      "BK_bk_45_1",
+      "BK_bk_31_1"
+    ],
+    "lõng": [
+      "BK_bk_31_1"
+    ],
+    "caulfield": [
+      "BK_bk_31_1"
+    ],
+    "lộn": [
+      "BK_bk_31_1"
+    ],
+    "giả": [
+      "BK_bk_31_1"
+    ],
+    "thiếu": [
+      "BK_bk_31_1",
+      "BK_bk_39_1",
+      "BK_bk_41_1"
+    ],
+    "lạc": [
+      "BK_bk_31_1"
+    ],
+    "loạn": [
+      "BK_bk_31_1"
+    ],
+    "phơi": [
+      "BK_bk_32_1"
+    ],
+    "bất": [
+      "BK_bk_32_1"
+    ],
+    "ca": [
+      "BK_bk_32_1"
+    ],
+    "tối": [
+      "BK_bk_46_1",
+      "BK_bk_32_1"
+    ],
+    "ngợi": [
+      "BK_bk_32_1"
+    ],
+    "khắc": [
+      "BK_bk_32_1"
+    ],
+    "chủng": [
+      "BK_bk_32_1"
+    ],
+    "tộc": [
+      "BK_bk_32_1"
+    ],
+    "scout": [
+      "BK_bk_32_1"
+    ],
+    "bày": [
+      "BK_bk_32_1"
+    ],
+    "tăm": [
+      "BK_bk_32_1"
+    ],
+    "quanh": [
+      "BK_bk_33_1",
+      "BK_bk_35_1"
+    ],
+    "mỹ": [
+      "BK_bk_33_1"
+    ],
+    "tàn": [
+      "BK_bk_33_1"
+    ],
+    "corleone": [
+      "BK_bk_33_1"
+    ],
+    "lực": [
+      "BK_bk_33_1"
+    ],
+    "xoay": [
+      "BK_bk_33_1",
+      "BK_bk_35_1"
+    ],
+    "bức": [
+      "BK_bk_33_1"
+    ],
+    "khốc": [
+      "BK_bk_33_1"
+    ],
+    "đình": [
+      "BK_bk_33_1"
+    ],
+    "mafia": [
+      "BK_bk_33_1"
+    ],
+    "quyền": [
+      "BK_bk_33_1"
+    ],
+    "ám": [
+      "BK_bk_49_1",
+      "BK_bk_34_1"
+    ],
+    "heathcliff": [
+      "BK_bk_34_1"
+    ],
+    "thù": [
+      "BK_bk_34_1"
+    ],
+    "catherine": [
+      "BK_bk_34_1"
+    ],
+    "mê": [
+      "BK_bk_34_1"
+    ],
+    "đam": [
+      "BK_bk_34_1"
+    ],
+    "hận": [
+      "BK_bk_34_1"
+    ],
+    "mr": [
+      "BK_bk_35_1"
+    ],
+    "elizabeth": [
+      "BK_bk_35_1"
+    ],
+    "bennet": [
+      "BK_bk_35_1"
+    ],
+    "lãng": [
+      "BK_bk_35_1"
+    ],
+    "darcy": [
+      "BK_bk_35_1"
+    ],
+    "mạn": [
+      "BK_bk_35_1"
+    ],
+    "sảo": [
+      "BK_bk_35_1"
+    ],
+    "tự": [
+      "BK_bk_35_1"
+    ],
+    "chí": [
+      "BK_bk_36_1"
+    ],
+    "lão": [
+      "BK_bk_47_1",
+      "BK_bk_36_1"
+    ],
+    "hãnh": [
+      "BK_bk_36_1"
+    ],
+    "trưng": [
+      "BK_bk_36_1"
+    ],
+    "kiên": [
+      "BK_bk_40_1",
+      "BK_bk_36_1"
+    ],
+    "santiago": [
+      "BK_bk_36_1"
+    ],
+    "lồ": [
+      "BK_bk_43_1",
+      "BK_bk_36_1"
+    ],
+    "cường": [
+      "BK_bk_36_1"
+    ],
+    "khổng": [
+      "BK_bk_43_1",
+      "BK_bk_36_1"
+    ],
+    "ngư": [
+      "BK_bk_36_1"
+    ],
+    "ra": [
+      "BK_bk_42_1",
+      "BK_bk_37_1",
+      "BK_bk_43_1",
+      "BK_bk_44_1"
+    ],
+    "mở": [
+      "BK_bk_37_1",
+      "BK_bk_44_1"
+    ],
+    "chứ": [
+      "BK_bk_38_1"
+    ],
+    "khổ": [
+      "BK_bk_38_1"
+    ],
+    "frankl": [
+      "BK_bk_38_1"
+    ],
+    "khẳng": [
+      "BK_bk_38_1"
+    ],
+    "nghiệm": [
+      "BK_bk_38_1"
+    ],
+    "trại": [
+      "BK_bk_38_1"
+    ],
+    "vượt": [
+      "BK_bk_38_1",
+      "BK_bk_44_1"
+    ],
+    "tột": [
+      "BK_bk_38_1"
+    ],
+    "trải": [
+      "BK_bk_38_1"
+    ],
+    "bệnh": [
+      "BK_bk_39_1"
+    ],
+    "thật": [
+      "BK_bk_39_1"
+    ],
+    "gus": [
+      "BK_bk_39_1"
+    ],
+    "hiểm": [
+      "BK_bk_39_1"
+    ],
+    "hazel": [
+      "BK_bk_39_1"
+    ],
+    "mắc": [
+      "BK_bk_39_1"
+    ],
+    "mặt": [
+      "BK_bk_39_1"
+    ],
+    "roark": [
+      "BK_bk_40_1"
+    ],
+    "howard": [
+      "BK_bk_40_1"
+    ],
+    "chủ": [
+      "BK_bk_45_1",
+      "BK_bk_40_1"
+    ],
+    "biểu": [
+      "BK_bk_40_1"
+    ],
+    "sư": [
+      "BK_bk_40_1"
+    ],
+    "trúc": [
+      "BK_bk_40_1"
+    ],
+    "tuyệt": [
+      "BK_bk_40_1"
+    ],
+    "năng": [
+      "BK_bk_44_1",
+      "BK_bk_41_1"
+    ],
+    "đạt": [
+      "BK_bk_42_1",
+      "BK_bk_41_1"
+    ],
+    "cực": [
+      "BK_bk_41_1"
+    ],
+    "luật": [
+      "BK_bk_42_1",
+      "BK_bk_41_1"
+    ],
+    "yếu": [
+      "BK_bk_42_1",
+      "BK_bk_41_1"
+    ],
+    "kỹ": [
+      "BK_bk_41_1"
+    ],
+    "cấp": [
+      "BK_bk_42_1"
+    ],
+    "mô": [
+      "BK_bk_42_1"
+    ],
+    "hình": [
+      "BK_bk_42_1"
+    ],
+    "độ": [
+      "BK_bk_42_1"
+    ],
+    "vọt": [
+      "BK_bk_42_1"
+    ],
+    "nhím": [
+      "BK_bk_42_1"
+    ],
+    "nhảy": [
+      "BK_bk_42_1"
+    ],
+    "đạo": [
+      "BK_bk_42_1"
+    ],
+    "tố": [
+      "BK_bk_42_1"
+    ],
+    "lãnh": [
+      "BK_bk_42_1"
+    ],
+    "doanh": [
+      "BK_bk_42_1"
+    ],
+    "xuyên": [
+      "BK_bk_43_1"
+    ],
+    "hiếm": [
+      "BK_bk_43_1"
+    ],
+    "rủi": [
+      "BK_bk_43_1"
+    ],
+    "ro": [
+      "BK_bk_43_1"
+    ],
+    "ngẫu": [
+      "BK_bk_43_1"
+    ],
+    "đánh": [
+      "BK_bk_43_1"
+    ],
+    "biến": [
+      "BK_bk_43_1"
+    ],
+    "lầm": [
+      "BK_bk_43_1",
+      "BK_bk_49_1"
+    ],
+    "cố": [
+      "BK_bk_43_1"
+    ],
+    "khả": [
+      "BK_bk_44_1"
+    ],
+    "trội": [
+      "BK_bk_44_1"
+    ],
+    "rộng": [
+      "BK_bk_44_1"
+    ],
+    "khích": [
+      "BK_bk_44_1"
+    ],
+    "mục": [
+      "BK_bk_44_1"
+    ],
+    "đọc": [
+      "BK_bk_44_1"
+    ],
+    "ngôn": [
+      "BK_bk_45_1"
+    ],
+    "ngụ": [
+      "BK_bk_45_1"
+    ],
+    "thích": [
+      "BK_bk_45_1"
+    ],
+    "okada": [
+      "BK_bk_46_1"
+    ],
+    "vợ": [
+      "BK_bk_46_1"
+    ],
+    "u": [
+      "BK_bk_46_1"
+    ],
+    "thực": [
+      "BK_bk_46_1",
+      "BK_bk_47_1"
+    ],
+    "ngã": [
+      "BK_bk_47_1"
+    ],
+    "nói": [
+      "BK_bk_47_1"
+    ],
+    "hòa": [
+      "BK_bk_47_1"
+    ],
+    "kafka": [
+      "BK_bk_47_1"
+    ],
+    "quyện": [
+      "BK_bk_47_1"
+    ],
+    "bỏ": [
+      "BK_bk_47_1"
+    ],
+    "ông": [
+      "BK_bk_47_1"
+    ],
+    "kí": [
+      "BK_bk_47_1"
+    ],
+    "nakata": [
+      "BK_bk_47_1"
+    ],
+    "song": [
+      "BK_bk_47_1"
+    ],
+    "xứ": [
+      "BK_bk_48_1"
+    ],
+    "tội": [
+      "BK_bk_48_1",
+      "BK_bk_49_1"
+    ],
+    "baskerville": [
+      "BK_bk_48_1"
+    ],
+    "bén": [
+      "BK_bk_48_1"
+    ],
+    "tra": [
+      "BK_bk_48_1"
+    ],
+    "william": [
+      "BK_bk_48_1"
+    ],
+    "tu": [
+      "BK_bk_48_1"
+    ],
+    "án": [
+      "BK_bk_48_1"
+    ],
+    "viện": [
+      "BK_bk_48_1"
+    ],
+    "cổ": [
+      "BK_bk_48_1"
+    ],
+    "rỗi": [
+      "BK_bk_49_1"
+    ],
+    "chuộc": [
+      "BK_bk_49_1"
+    ],
+    "hương": [
+      "BK_bk_49_1"
+    ],
+    "quay": [
+      "BK_bk_49_1"
+    ],
+    "anh": [
+      "BK_bk_49_1"
+    ],
+    "afghanistan": [
+      "BK_bk_49_1"
+    ],
+    "diều": [
+      "BK_bk_49_1"
+    ],
+    "amir": [
+      "BK_bk_49_1"
+    ],
+    "bội": [
+      "BK_bk_49_1"
+    ],
+    "đớn": [
+      "BK_bk_49_1"
+    ],
+    "hassan": [
+      "BK_bk_49_1"
+    ]
+  }
+}

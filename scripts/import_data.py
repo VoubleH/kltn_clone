@@ -1,9 +1,18 @@
-# import_data.py
+# scripts/import_data.py
+import os
+import sys
 import csv
 from decimal import Decimal
 
+# ---- chỉnh sys.path để import được db, models ----
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+sys.path.append(BASE_DIR)
+
 from db import SessionLocal
 from models import Book, UserProfile, UserFact
+
+
+DATA_DIR = os.path.join(BASE_DIR, "data")  # nơi bạn để CSV của Huy
 
 
 def to_int(v):
@@ -13,7 +22,15 @@ def to_int(v):
     return int(v) if v else None
 
 
-def import_books(csv_path="book_master_template.csv"):
+def import_books(csv_path: str | None = None):
+    """
+    Import đúng data books_master_template.csv của Huy.
+    - Đặt file ở: data/books_master_template.csv
+    - Hoặc truyền đường dẫn custom vào csv_path.
+    """
+    if csv_path is None:
+        csv_path = os.path.join(DATA_DIR, "book_master_template.csv")
+
     db = SessionLocal()
     try:
         with open(csv_path, newline="", encoding="utf-8") as f:
@@ -43,12 +60,19 @@ def import_books(csv_path="book_master_template.csv"):
                 db.merge(book)
 
         db.commit()
-        print("✅ Import books xong.")
+        print(f"✅ Import books xong từ {csv_path}.")
     finally:
         db.close()
 
 
-def import_user_profiles(csv_path="user_profiles_examples.csv", shop_id="shop_books_1"):
+def import_user_profiles(csv_path: str | None = None, shop_id: str = "shop_books_1"):
+    """
+    Import đúng file user_profiles_examples.csv của Huy.
+    - Đặt file ở: data/user_profiles_examples.csv
+    """
+    if csv_path is None:
+        csv_path = os.path.join(DATA_DIR, "user_profiles_examples.csv")
+
     db = SessionLocal()
     try:
         with open(csv_path, newline="", encoding="utf-8") as f:
@@ -74,12 +98,19 @@ def import_user_profiles(csv_path="user_profiles_examples.csv", shop_id="shop_bo
                 db.merge(profile)
 
         db.commit()
-        print("✅ Import user_profiles xong.")
+        print(f"✅ Import user_profiles xong từ {csv_path}.")
     finally:
         db.close()
 
 
-def import_user_facts(csv_path="user_facts_examples.csv", shop_id="shop_books_1"):
+def import_user_facts(csv_path: str | None = None, shop_id: str = "shop_books_1"):
+    """
+    Import đúng file user_facts_examples.csv của Huy.
+    - Đặt file ở: data/user_facts_examples.csv
+    """
+    if csv_path is None:
+        csv_path = os.path.join(DATA_DIR, "user_facts_examples.csv")
+
     db = SessionLocal()
     try:
         with open(csv_path, newline="", encoding="utf-8") as f:
@@ -95,7 +126,7 @@ def import_user_facts(csv_path="user_facts_examples.csv", shop_id="shop_books_1"
                 db.add(fact)
 
         db.commit()
-        print("✅ Import user_facts xong.")
+        print(f"✅ Import user_facts xong từ {csv_path}.")
     finally:
         db.close()
 

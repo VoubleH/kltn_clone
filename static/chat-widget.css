@@ -1,0 +1,181 @@
+/* Vùng container chính của widget */
+.ktn-chat-launcher {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+}
+
+.ktn-chat-button {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    border: none;
+    background: radial-gradient(circle at 30% 20%, #facc15, #f97316 45%, #1d4ed8);
+    box-shadow: 0 12px 30px rgba(15, 23, 42, 0.45);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.16s ease, box-shadow 0.16s ease;
+}
+
+.ktn-chat-button:hover {
+    transform: translateY(-1px) scale(1.03);
+    box-shadow: 0 16px 40px rgba(15, 23, 42, 0.6);
+}
+
+.ktn-chat-button-icon {
+    font-size: 24px;
+}
+
+/* Popup chat */
+.ktn-chat-popup {
+    position: fixed;
+    bottom: 84px;
+    right: 20px;
+    width: 360px;
+    max-height: 520px;
+    border-radius: 24px;
+    background: linear-gradient(145deg, #020617, #020617);
+    box-shadow: 0 20px 60px rgba(15, 23, 42, 0.9);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    z-index: 9999;
+    border: 1px solid rgba(148, 163, 184, 0.3);
+}
+
+/* Header */
+.ktn-chat-header {
+    padding: 14px 16px;
+    border-bottom: 1px solid rgba(148, 163, 184, 0.35);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: radial-gradient(circle at top left, #1d4ed8, transparent 55%);
+}
+
+.ktn-chat-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 12px;
+    background: radial-gradient(circle at 30% 20%, #facc15, #f97316 40%, #1d4ed8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.ktn-chat-header-text-main {
+    font-size: 14px;
+    font-weight: 600;
+    color: #e5e7eb;
+}
+
+.ktn-chat-header-text-sub {
+    font-size: 11px;
+    color: #9ca3af;
+}
+
+/* Body / messages */
+.ktn-chat-body {
+    flex: 1;
+    padding: 10px 10px 6px;
+    overflow-y: auto;
+    background: radial-gradient(circle at top, #020617, #020617 60%);
+}
+
+.ktn-chat-messages {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+/* Bubbles */
+.ktn-msg-row {
+    display: flex;
+    width: 100%;
+}
+
+.ktn-msg-row.user {
+    justify-content: flex-end;
+}
+
+.ktn-msg-row.bot {
+    justify-content: flex-start;
+}
+
+.ktn-msg-bubble {
+    max-width: 80%;
+    padding: 8px 12px;
+    border-radius: 18px;
+    font-size: 13px;
+    line-height: 1.4;
+    word-break: break-word;
+}
+
+.ktn-msg-bubble.user {
+    background: linear-gradient(135deg, #4f46e5, #22c55e);
+    color: #ecfeff;
+    border-bottom-right-radius: 4px;
+}
+
+.ktn-msg-bubble.bot {
+    background: rgba(15, 23, 42, 0.96);
+    border: 1px solid rgba(148, 163, 184, 0.4);
+    color: #e5e7eb;
+    border-bottom-left-radius: 4px;
+}
+
+/* Input area */
+.ktn-chat-input-area {
+    padding: 8px;
+    border-top: 1px solid rgba(148, 163, 184, 0.35);
+    background: rgba(2, 6, 23, 0.98);
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.ktn-chat-input {
+    flex: 1;
+    border-radius: 999px;
+    border: 1px solid rgba(148, 163, 184, 0.45);
+    background: rgba(15, 23, 42, 0.9);
+    color: #e5e7eb;
+    font-size: 13px;
+    padding: 8px 12px;
+    outline: none;
+}
+
+.ktn-chat-input::placeholder {
+    color: #6b7280;
+}
+
+.ktn-chat-send-btn {
+    border-radius: 999px;
+    border: none;
+    padding: 8px 12px;
+    background: linear-gradient(135deg, #22c55e, #4ade80);
+    color: #022c22;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.ktn-chat-send-btn:disabled {
+    opacity: 0.6;
+    cursor: default;
+}
+
+/* Trạng thái lỗi / info */
+.ktn-chat-status {
+    font-size: 11px;
+    color: #f97373;
+    margin-top: 2px;
+    margin-left: 4px;
+}
