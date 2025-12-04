@@ -25,6 +25,8 @@ class Book(Base):
     pages = Column(Integer)
     year = Column(Integer)
     publisher = Column(Text)
+    age_rating = Column(Integer, nullable=True) 
+    introduction = Column(Text, nullable=True)
     short_summary = Column(Text)
     price_vnd = Column(Integer)
     stock = Column(Integer)

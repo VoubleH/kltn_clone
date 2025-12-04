@@ -50,10 +50,11 @@ def import_books(csv_path: str | None = None):
                 book.pages = to_int(row.get("pages"))
                 book.year = to_int(row.get("year"))
                 book.publisher = row.get("publisher", "")
+                book.introduction = row.get("introduction", "").strip()
+                book.age_rating = to_int(row.get("age_rating"))
                 book.short_summary = row.get("short_summary", "")
                 book.price_vnd = to_int(row.get("price_vnd"))
-                book.stock = to_int(row.get("stock"))
-
+                book.stocks = to_int(row.get("stocks"))
                 rating = row.get("rating_avg")
                 book.rating_avg = Decimal(str(rating)) if rating else None
 
