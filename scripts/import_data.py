@@ -23,45 +23,70 @@ def to_int(v):
 
 
 def import_books(csv_path: str | None = None):
-    """
-    Import đúng data books_master_template.csv của Huy.
-    - Đặt file ở: data/books_master_template.csv
-    - Hoặc truyền đường dẫn custom vào csv_path.
-    """
     if csv_path is None:
         csv_path = os.path.join(DATA_DIR, "book_master_template.csv")
 
+    if not os.path.exists(csv_path):
+        print(f"❌ Không tìm thấy file: {csv_path}")
+        return
+
     db = SessionLocal()
     try:
-        with open(csv_path, newline="", encoding="utf-8") as f:
+        # encoding='utf-8-sig' để xử lý file CSV từ Excel (tránh lỗi ký tự lạ đầu file)
+        with open(csv_path, newline="", encoding="utf-8-sig") as f:
             reader = csv.DictReader(f)
+            
+            count = 0
             for row in reader:
-                book_id = row.get("book_id") or row.get("id")
+                # 1. Lấy ID và xử lý khoảng trắng
+                book_id = (row.get("id") or row.get("book_id") or "").strip()
                 if not book_id:
                     continue
 
+                # 2. Tìm hoặc tạo mới Book
                 book = db.get(Book, book_id)
                 if not book:
                     book = Book(id=book_id)
 
-                book.title = row.get("title", "")
-                book.authors = row.get("authors", "")
-                book.genres_primary = row.get("genres_primary", "")
-                book.pages = to_int(row.get("pages"))
-                book.year = to_int(row.get("year"))
-                book.publisher = row.get("publisher", "")
+                # 3. Map dữ liệu văn bản
+                book.title = row.get("title", "").strip()
+                book.authors = row.get("authors", "").strip()
+                book.genres_primary = row.get("genres_primary", "").strip()
+                book.publisher = row.get("publisher", "").strip()
+                book.short_summary = row.get("short_summary", "").strip()
+                
+                # Các cột mới (nếu bạn đã thêm vào models.py)
                 book.introduction = row.get("introduction", "").strip()
                 book.age_rating = to_int(row.get("age_rating"))
-                book.short_summary = row.get("short_summary", "")
+
+                # 4. Map dữ liệu số
+                book.pages = to_int(row.get("pages"))
+                book.year = to_int(row.get("year"))
                 book.price_vnd = to_int(row.get("price_vnd"))
-                book.stocks = to_int(row.get("stocks"))
+                
+                # QUAN TRỌNG: Cột trong CSV là 'stocks', trong Model là 'stock'
+                book.stock = to_int(row.get("stocks")) 
+
+                # 5. Xử lý Rating
                 rating = row.get("rating_avg")
-                book.rating_avg = Decimal(str(rating)) if rating else None
+                if rating:
+                    try:
+                        book.rating_avg = Decimal(str(rating))
+                    except:
+                        book.rating_avg = None
+                
+                # --- Đã bỏ phần import created_at, updated_at ---
+                # Database sẽ tự động điền giờ hiện tại (datetime.utcnow)
 
                 db.merge(book)
+                count += 1
 
         db.commit()
-        print(f"✅ Import books xong từ {csv_path}.")
+        print(f"✅ Import books xong từ {csv_path}. Đã xử lý {count} dòng.")
+        
+    except Exception as e:
+        db.rollback()
+        print(f"❌ Lỗi khi import books: {e}")
     finally:
         db.close()
 
