@@ -29,6 +29,9 @@ def find_books_by_filter(
     db: Session = SessionLocal()
     try:
         q = db.query(Book)
+        
+        if shop_id:
+            q = q.filter(Book.shop_id == shop_id)
 
         # 1. Filter theo thể loại 
         if genre:
