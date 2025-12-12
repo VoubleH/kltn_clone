@@ -23,46 +23,51 @@ def find_books_by_filter(
     limit: int = 5,
 ) -> List[Dict[str, Any]]:
     """
-    Lọc sách theo thể loại / ngân sách / số trang – dùng cho tool find_products.
-    Hiện tại chưa filter theo shop_id vì bạn mới có 1 shop sách.
+    Tool: find_books
+    Mục đích: Tìm sách theo tiêu chí lọc (thể loại, giá, số trang).
     """
     db: Session = SessionLocal()
     try:
         q = db.query(Book)
 
-        # Thể loại
+        # 1. Filter theo thể loại 
         if genre:
             q = q.filter(Book.genres_primary.ilike(f"%{genre}%"))
 
-        # Giá tối đa (0 hoặc None => bỏ qua)
+        # 2. Filter theo ngân sách (chỉ lọc nếu có giá trị hợp lệ)
         if budget_max is not None and budget_max > 0:
             q = q.filter(Book.price_vnd <= budget_max)
 
-        # Số trang: chỉ lọc nếu >0
+        # 3. Filter theo số trang
         if page_min is not None and page_min > 0:
             q = q.filter(Book.pages >= page_min)
         if page_max is not None and page_max > 0:
             q = q.filter(Book.pages <= page_max)
 
-        # Sắp xếp: rating cao trước, sau đó giá tăng dần
+        # 4. Sắp xếp: Ưu tiên Rating cao, sau đó đến Giá thấp
         q = q.order_by(Book.rating_avg.desc(), Book.price_vnd.asc())
 
-        # Limit
-        if limit is None or limit <= 0:
-            limit = 5
+        # 5. Logic giới hạn an toàn, thêm chặn trên phòng trường hợp user đưa ttin limit mơ hồ, LLM bị hallucination
+        # Nếu limit <= 0 hoặc None -> Mặc định 5
+        # Nếu limit > 10 -> Cắt xuống 10 để tránh tràn Context Window của LLM
+        if not limit or limit <= 0:
+            actual_limit = 5
+        else:
+            actual_limit = min(limit, 10)
 
-        books = q.limit(limit).all()
+        books = q.limit(actual_limit).all()
 
         return [
             {
                 "book_id": b.id,
                 "title": b.title,
                 "authors": b.authors,
-                "genres_primary": b.genres_primary,
+                "genres": b.genres_primary,
                 "pages": b.pages,
                 "price_vnd": b.price_vnd,
                 "stock": b.stock,
                 "rating_avg": float(b.rating_avg) if b.rating_avg is not None else None,
+                "summary": b.short_summary,
             }
             for b in books
         ]
@@ -298,7 +303,7 @@ def get_last_messages(conversation_id: int, limit: int = 5) -> List[Dict[str, An
 def tool_get_book_detail(book_id: str) -> Optional[Dict[str, Any]]:
     """
     Tool: get_book_detail
-    Mục đích: Lấy chi tiết 1 cuốn sách để LLM dùng trả lời.
+    Mục đích: Lấy thông tin chi tiết đầy đủ của 1 cuốn sách.
     """
     db = SessionLocal()
     try:
@@ -317,6 +322,8 @@ def tool_get_book_detail(book_id: str) -> Optional[Dict[str, Any]]:
             "short_summary": b.short_summary,
             "publisher": b.publisher,
             "year": b.year,
+            # Lấy thêm introduction để LLM có thể trả lời sâu về nội dung
+            "introduction": b.introduction, 
         }
     finally:
         db.close()
@@ -325,19 +332,23 @@ def tool_get_book_detail(book_id: str) -> Optional[Dict[str, Any]]:
 def tool_compare_books(book_ids: List[str]) -> List[Dict[str, Any]]:
     """
     Tool: compare_books
-    Mục đích: So sánh nhiều sách theo giá, số trang, thể loại, rating.
-    Trả về list, LLM sẽ format thành bảng / đoạn văn.
+    Mục đích: Lấy thông tin tóm tắt của nhiều sách để so sánh.
     """
     if not book_ids:
         return []
 
     db = SessionLocal()
     try:
+        # AN TOÀN: nếu user ycau so sánh quá nhiều sách 1 lúc (10, 20 cuốn trở lên) thì cũng cắt input về ngưỡng min, có thể đưa ra note 
+        # khi ng dùng ycau so sánh quá nhiều sách kiểu: để đưa ra kqua tốt nhất thì sẽ chỉ so sánh 5 cuốn đầu tiên hoặc bảo ng dùng chọn 5 cuốn để so sánh thôi
+        safe_ids = book_ids[:5]
+        
         books = (
             db.query(Book)
-            .filter(Book.id.in_(book_ids))
+            .filter(Book.id.in_(safe_ids))
             .all()
         )
+        
         result: List[Dict[str, Any]] = []
         for b in books:
             result.append(
@@ -395,10 +406,26 @@ def tool_add_user_fact(
 ) -> Dict[str, Any]:
     """
     Tool: add_user_fact
-    Mục đích: Lưu thêm một fact về user (gu thích, ghét, ngân sách,...).
+    Mục đích: Ghi nhớ thông tin mới về user vào DB (Upsert).
     """
     db = SessionLocal()
     try:
+        # 1. Kiểm tra xem fact này đã tồn tại chưa (tránh spam/duplicate)
+        existing_fact = db.query(UserFact).filter_by(
+            shop_id=shop_id, 
+            user_id=user_id, 
+            fact_type=fact_type, 
+            fact_value=fact_value
+        ).first()
+
+        if existing_fact:
+            # Nếu đã có -> Update confidence và thời gian mới nhất
+            existing_fact.confidence = confidence
+            existing_fact.created_at = datetime.utcnow()
+            db.commit()
+            return {"status": "updated", "msg": f"Updated fact: {fact_value}"}
+
+        # 2. Nếu chưa có -> Insert mới
         fact = UserFact(
             shop_id=shop_id,
             user_id=user_id,
@@ -408,11 +435,10 @@ def tool_add_user_fact(
         )
         db.add(fact)
         db.commit()
-        return {
-            "stored": True,
-            "fact_type": fact_type,
-            "fact_value": fact_value,
-            "confidence": float(confidence),
-        }
+        return {"status": "added", "msg": f"Remembered: {fact_value}"}
+        
+    except Exception as e:
+        db.rollback()
+        return {"status": "error", "msg": str(e)}
     finally:
         db.close()
