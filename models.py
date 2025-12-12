@@ -100,3 +100,10 @@ class Message(Base):
     created_at = Column(DateTime, default=datetime.utcnow)
 
     conversation = relationship("Conversation", back_populates="messages")
+
+class FAQ(Base):
+    __tablename__ = "faqs"
+    id = Column(String(32), primary_key=True, index=True)
+    title = Column(Text, nullable=False)
+    text = Column(Text, nullable=False) # Map từ cột 'chunk_text' trong CSV
+    created_at = Column(DateTime, default=datetime.utcnow)

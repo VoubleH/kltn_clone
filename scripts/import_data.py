@@ -9,7 +9,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 sys.path.append(BASE_DIR)
 
 from db import SessionLocal
-from models import Book, UserProfile, UserFact
+from models import Book, UserProfile, UserFact, FAQ
 
 
 DATA_DIR = os.path.join(BASE_DIR, "data")  # nơi bạn để CSV của Huy
@@ -152,12 +152,55 @@ def import_user_facts(csv_path: str | None = None, shop_id: str = "shop_books_1"
                 db.add(fact)
 
         db.commit()
-        print(f"✅ Import user_facts xong từ {csv_path}.")
+        print(f"Import user_facts xong từ {csv_path}.")
     finally:
         db.close()
 
+def import_faqs(csv_path: str | None = None):
+    """
+    Import file chunk_faq.csv vào bảng faqs
+    """
+    if csv_path is None:
+        csv_path = os.path.join(DATA_DIR, "doc_trunks_faq.csv")
 
+    if not os.path.exists(csv_path):
+        print(f"Không tìm thấy file: {csv_path}")
+        return
+
+    db = SessionLocal()
+    try:
+        with open(csv_path, newline="", encoding="utf-8-sig") as f:
+            reader = csv.DictReader(f)
+            count = 0
+            for row in reader:
+                # Lấy ID
+                faq_id = row.get("id", "").strip()
+                if not faq_id:
+                    continue
+
+                # Kiểm tra xem FAQ đã có chưa để update
+                faq = db.get(FAQ, faq_id)
+                if not faq:
+                    faq = FAQ(id=faq_id)
+
+                # Map dữ liệu
+                faq.title = row.get("title", "").strip()
+                # Cột trong CSV là 'chunk_text', map vào model 'text'
+                faq.text = row.get("chunk_text", "").strip()
+
+                db.merge(faq)
+                count += 1
+
+        db.commit()
+        print(f"Import FAQs xong từ {csv_path}. Đã xử lý {count} dòng.")
+    except Exception as e:
+        db.rollback()
+        print(f"Lỗi khi import FAQs: {e}")
+    finally:
+        db.close()
+        
 if __name__ == "__main__":
     import_books()
     import_user_profiles()
     import_user_facts()
+    import_faqs()
